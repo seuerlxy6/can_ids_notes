@@ -11,14 +11,14 @@
             "id": "a0b0901c39639457",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "split-diff-view",
               "state": {
-                "file": "record/20250701_1838_fifo_underflow.md",
-                "mode": "source",
-                "source": false
+                "aFile": "scripts/newnote.ps1",
+                "bFile": "scripts/newnote.ps1",
+                "aRef": ""
               },
-              "icon": "lucide-file",
-              "title": "20250701_1838_fifo_underflow"
+              "icon": "diff",
+              "title": "Diff: newnote.ps1"
             }
           }
         ]
@@ -94,7 +94,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "record/20250701_1838_fifo_underflow.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +103,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "20250701_1838_fifo_underflow 的反向链接列表"
+              "title": "反向链接"
             }
           },
           {
@@ -113,12 +112,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "record/20250701_1838_fifo_underflow.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "20250701_1838_fifo_underflow 的出链列表"
+              "title": "出链"
             }
           },
           {
@@ -142,13 +140,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "record/20250701_1838_fifo_underflow.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "20250701_1838_fifo_underflow 的大纲"
+              "title": "大纲"
             }
           },
           {
@@ -182,8 +179,8 @@
   },
   "active": "a0b0901c39639457",
   "lastOpenFiles": [
-    "record/20250701_1834_fifo_underflow.md",
     "record/20250701_1838_fifo_underflow.md",
+    "record/20250701_1834_fifo_underflow.md",
     "README.md",
     "scripts/newnote.sh.md",
     "scripts/newnote.ps1",
