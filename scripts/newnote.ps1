@@ -11,15 +11,15 @@ $path = Join-Path "..\record" $slug
 @"
 # $title
 
-**症状**
+**Issue**
 
-**推测**
+**Hypothesis**
 
-**实验**
+**Experiment**
 
-**根因 & 改动**
+**Fix**
 
-**复盘**
+**Post-mortem**
 "@ | Out-File $path -Encoding utf8
 
 git add $path

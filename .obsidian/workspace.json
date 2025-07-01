@@ -11,14 +11,14 @@
             "id": "a0b0901c39639457",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": "scripts/newnote.ps1",
-                "bFile": "scripts/newnote.ps1",
-                "aRef": ""
+                "file": "record/20250701_1845_fifo_underflow.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: newnote.ps1"
+              "icon": "lucide-file",
+              "title": "20250701_1845_fifo_underflow"
             }
           }
         ]
@@ -94,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "record/20250701_1845_fifo_underflow.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +104,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "反向链接"
+              "title": "20250701_1845_fifo_underflow 的反向链接列表"
             }
           },
           {
@@ -112,11 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "record/20250701_1845_fifo_underflow.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "出链"
+              "title": "20250701_1845_fifo_underflow 的出链列表"
             }
           },
           {
@@ -140,12 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "record/20250701_1845_fifo_underflow.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "大纲"
+              "title": "20250701_1845_fifo_underflow 的大纲"
             }
           },
           {
@@ -177,8 +180,9 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "02fe02b56ba9d27f",
+  "active": "a0b0901c39639457",
   "lastOpenFiles": [
+    "record/20250701_1845_fifo_underflow.md",
     "record/20250701_1842_fifo_underflow.md",
     "record/20250701_1838_fifo_underflow.md",
     "record/20250701_1834_fifo_underflow.md",
