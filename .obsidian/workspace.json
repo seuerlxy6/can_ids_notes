@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "record/20250701_1845_fifo_underflow.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
@@ -182,8 +182,8 @@
   },
   "active": "a0b0901c39639457",
   "lastOpenFiles": [
-    "record/20250701_1845_fifo_underflow.md",
     "record/20250701_1842_fifo_underflow.md",
+    "record/20250701_1845_fifo_underflow.md",
     "record/20250701_1838_fifo_underflow.md",
     "record/20250701_1834_fifo_underflow.md",
     "README.md",
