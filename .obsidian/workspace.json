@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "scripts/newnote.sh.md",
+                "file": "record/20250701_1834_fifo_underflow.md",
                 "mode": "source",
-                "source": true
+                "source": false
               },
               "icon": "lucide-file",
-              "title": "newnote.sh"
+              "title": "20250701_1834_fifo_underflow"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "scripts/newnote.sh.md",
+                "file": "record/20250701_1834_fifo_underflow.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "newnote.sh 的反向链接列表"
+              "title": "20250701_1834_fifo_underflow 的反向链接列表"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "scripts/newnote.sh.md",
+                "file": "record/20250701_1834_fifo_underflow.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "newnote.sh 的出链列表"
+              "title": "20250701_1834_fifo_underflow 的出链列表"
             }
           },
           {
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "scripts/newnote.sh.md",
+                "file": "record/20250701_1834_fifo_underflow.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "newnote.sh 的大纲"
+              "title": "20250701_1834_fifo_underflow 的大纲"
             }
           },
           {
@@ -182,9 +182,10 @@
   },
   "active": "a0b0901c39639457",
   "lastOpenFiles": [
-    "scripts/newnote.ps1",
     "README.md",
     "scripts/newnote.sh.md",
+    "record/20250701_1834_fifo_underflow.md",
+    "scripts/newnote.ps1",
     "2025-07-01.md",
     "未命名.canvas"
   ]
