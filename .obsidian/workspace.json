@@ -100,7 +100,7 @@
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
               "title": "反向链接"
@@ -177,10 +177,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "3d33982083b403a8",
+  "active": "a0b0901c39639457",
   "lastOpenFiles": [
-    "README.md",
     "2025-07-01.md",
+    "README.md",
     "未命名.canvas"
   ]
 }
