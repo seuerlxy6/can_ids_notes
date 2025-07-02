@@ -63,12 +63,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "record/20250702_1635_mem.md",
+                "file": "2025-07-02.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "20250702_1635_mem"
+              "title": "2025-07-02"
             }
           }
         ],
@@ -233,16 +233,18 @@
   },
   "active": "c3060bd84bf07d84",
   "lastOpenFiles": [
-    "Pasted image 20250702173957.png",
-    "record/20250702_1604_mem.md",
+    "assets/Pasted image 20250702201325.png",
+    "2025-07-02.md",
+    "assets/Pasted image 20250702173957.png",
+    "从波形能看出 3 个循环的嵌套层次：计数器 变化速度 作用N_cnt 最快 当前写的输出通道 index（1‥N）ox_cnt 中等 当前行里第几个 8-byte 列块（0‥OUT_w-1）oy_cnt 最慢 当前输出行 index（0‥OUT_h-1）未命名.canvas",
     "record/20250702_1635_mem.md",
+    "record/20250702_1604_mem.md",
     "assets/Pasted image 20250702160934.png",
     "assets/Pasted image 20250702163606.png",
     "assets/Pasted image 20250702160440.png",
     "scripts/note.sh",
     "rtl/imap_mem_ctrl.v",
     "未命名 1.canvas",
-    "未命名.canvas",
     "record/20250701_1842_fifo_underflow.md",
     "record/20250701_1838_fifo_underflow.md",
     "record/20250701_1834_fifo_underflow.md",
