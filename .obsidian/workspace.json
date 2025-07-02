@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "record/20250701_1845_fifo_underflow.md",
+                "file": "record/20250702_1604.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "20250701_1845_fifo_underflow"
+              "title": "20250702_1604"
             }
           }
         ]
@@ -182,10 +182,11 @@
   },
   "active": "a0b0901c39639457",
   "lastOpenFiles": [
+    "Pasted image 20250702160440.png",
     "rtl/imap_mem_ctrl.v",
     "未命名 1.canvas",
     "未命名.canvas",
-    "record/20250701_1845_fifo_underflow.md",
+    "record/20250702_1604.md",
     "record/20250701_1842_fifo_underflow.md",
     "record/20250701_1838_fifo_underflow.md",
     "record/20250701_1834_fifo_underflow.md",
