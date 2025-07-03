@@ -117,12 +117,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "tb/tb_mem_ctrl_0702.md",
+                "file": "record/input——regfile.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "tb_mem_ctrl_0702"
+              "title": "input——regfile"
             }
           }
         ],
@@ -287,12 +287,13 @@
   },
   "active": "3958c45ae5fb7fca",
   "lastOpenFiles": [
+    "record/MEM_ctrl的4个过程.md",
+    "record/input——regfile.md",
     "rtl/mem_ctrl_0702.md",
     "tb/tb_mem_ctrl_0702.md",
     "2025-07-02.md",
     "assets/Pasted image 20250702203733.png",
     "assets/Pasted image 20250702205017.png",
-    "record/MEM_ctrl的4个过程.md",
     "record/20250702_2025_wr.md",
     "assets/Pasted image 20250702220648.png",
     "assets/Pasted image 20250702220423.png",
