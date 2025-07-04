@@ -117,12 +117,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "record/input_regfile_分析思考.md",
-                "mode": "source",
-                "source": false
+                "file": "record/input_regfile_分析思考——源代码.md",
+                "mode": "preview",
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "input_regfile_分析思考"
+              "title": "input_regfile_分析思考——源代码"
             }
           }
         ],
@@ -289,7 +289,7 @@
   "lastOpenFiles": [
     "record/input_regfile pipeline.md",
     "Pasted image 20250704162119.png",
-    "record/input_regfile_分析思考.md",
+    "record/input_regfile_分析思考——源代码.md",
     "未命名.md",
     "未命名.canvas",
     "assets/Pasted image 20250702160934.png",
