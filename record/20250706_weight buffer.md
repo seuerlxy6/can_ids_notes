@@ -2,4 +2,4 @@
 每个bank的最大深度为907
 [[20250705weightbuffer_分析思考源代码]]
 
-A口读
+把 Block RAM 用 .coe 文件做 初始化 ROM，比特流下载进 FPGA 时，权重已经随配置数据写进片内 BRAM，不用取权重了
