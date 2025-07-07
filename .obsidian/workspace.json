@@ -183,6 +183,7 @@
   "active": "ef7da1225a2158ec",
   "lastOpenFiles": [
     "record/20250702MEM_ctrl pipeline.md",
+    "record/20250704input_regfile pipeline.md",
     "record/20250707_iobuffer_源码分析.md",
     "2025-07-06.md",
     "2025-07-01.md",
@@ -202,7 +203,6 @@
     "record/20250705_coe.md",
     "spec/20250705_coe.pdf",
     "spec/20250705_1702_coe.pdf",
-    "record/20250704input_regfile pipeline.md",
     "spec/20250704input_regfile pipeline.pdf",
     "assets/Pasted image 20250706182532.png",
     "record/mem/20250702_1635_mem.md",
