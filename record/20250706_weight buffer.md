@@ -10,4 +10,4 @@ B口读有两个时钟延迟
 在memctrl中权重有效和地址都是流水给出的
 ![[Pasted image 20250706182532.png]]
 设计文件逻辑正确，1more和数据读出差两个时钟
-testbench有点问题但不用修改
+testbench有点问题但不用修改,weight_bufferok
