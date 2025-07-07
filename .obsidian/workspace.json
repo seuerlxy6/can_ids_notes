@@ -69,12 +69,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "record/20250706_weight buffer.md",
+                "file": "rtl/weight_buffer.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "20250706_weight buffer"
+              "title": "weight_buffer"
             }
           },
           {
@@ -253,6 +253,12 @@
   },
   "active": "cba53773611443ba",
   "lastOpenFiles": [
+    "README.md",
+    "rtl/weight_buffer.md",
+    "assets/Pasted image 20250704162119.png",
+    "assets/Pasted image 20250704173358.png",
+    "record/20250706_weight buffer.md",
+    "record/20250706_weight buffer 1.md",
     "record/20250705_coe.md",
     "20250705_coe.pdf",
     "20250705_1702_coe.pdf",
@@ -260,17 +266,15 @@
     "20250702MEM_ctrl pipeline.pdf",
     "record/20250704input_regfile pipeline.md",
     "20250704input_regfile pipeline.pdf",
-    "record/20250706_weight buffer 1.md",
-    "record/20250706_weight buffer.md",
     "record/20250705weightbuffer_分析思考源代码.md",
     "2025-07-06.md",
-    "Pasted image 20250706182532.png",
+    "assets/Pasted image 20250706182532.png",
     "record/20250702_1635_mem.md",
-    "Pasted image 20250706174833.png",
+    "assets/Pasted image 20250706174833.png",
     "record/weightbuffer",
     "record/inputreg",
     "record/mem",
-    "Pasted image 20250706171418.png",
+    "assets/Pasted image 20250706171418.png",
     "record/20250702_2025_wr.md",
     "assets/Pasted image 20250702215230.png",
     "record/20250703input_regfile_分析思考源代码.md",
@@ -278,8 +282,6 @@
     "2025-07-02.md",
     "rtl/mem_ctrl_0702.md",
     "rtl/input_regfile_0704.md",
-    "Pasted image 20250704173358.png",
-    "Pasted image 20250704162119.png",
     "未命名.canvas",
     "assets/Pasted image 20250702160934.png",
     "tb/tb_mem_ctrl_0702.md",
@@ -295,7 +297,6 @@
     "record/20250701_1842_fifo_underflow.md",
     "record/20250701_1838_fifo_underflow.md",
     "record/20250701_1834_fifo_underflow.md",
-    "README.md",
     "scripts/newnote.sh.md",
     "scripts/newnote.ps1",
     "2025-07-01.md"
