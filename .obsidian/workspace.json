@@ -182,6 +182,7 @@
   },
   "active": "ef7da1225a2158ec",
   "lastOpenFiles": [
+    "training_and_evaluation.py",
     "record/轻量级 CAN 总线入侵检测 CNN 软件流程设计文档.md",
     "record/CAN-RGB + CANET-33K 入侵检测设计文档.md",
     "record/数据集分析.md",
@@ -225,7 +226,6 @@
     "assets/Pasted image 20250702215230.png",
     "record/inputreg/20250703input_regfile_分析思考源代码.md",
     "rtl/mem_ctrl_0702.md",
-    "rtl/input_regfile_0704.md",
     "从波形能看出 3 个循环的嵌套层次：计数器 变化速度 作用N_cnt 最快 当前写的输出通道 index（1‥N）ox_cnt 中等 当前行里第几个 8-byte 列块（0‥OUT_w-1）oy_cnt 最慢 当前输出行 index（0‥OUT_h-1）未命名.canvas",
     "scripts/note.sh",
     "rtl/imap_mem_ctrl.v",
