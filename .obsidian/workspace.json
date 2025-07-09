@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "record/20250709_1126_写个算法的设计文档.md",
+                "file": "record/CAN-RGB + CANET-33K 入侵检测设计文档.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "20250709_1126_写个算法的设计文档"
+              "title": "CAN-RGB + CANET-33K 入侵检测设计文档"
             }
           }
         ]
@@ -183,7 +183,7 @@
   "active": "ef7da1225a2158ec",
   "lastOpenFiles": [
     "record/轻量级 CAN 总线入侵检测 CNN 软件流程设计文档.md",
-    "record/20250709_1126_写个算法的设计文档.md",
+    "record/CAN-RGB + CANET-33K 入侵检测设计文档.md",
     "record/数据集分析.md",
     "未命名.canvas",
     "rgb过程.png",
