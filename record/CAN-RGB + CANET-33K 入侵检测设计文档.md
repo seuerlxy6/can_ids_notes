@@ -32,7 +32,7 @@ Car-Hacking-Dataset/
 ### 代码目录
 ├─dataset_hack(原始数据集)
 ├─dataset_img_hack
-**get_image.py生成的图片和标签,0.2代表取了原数据集每个csv20%的数据，具体比例可根据脚本中的参数修改，取不同数量的数据**
+**(get_image.py生成的图片和标签,0.2代表取了原数据集每个csv20%的数据，具体比例可根据脚本中的参数修改，取不同数量的数据)**
 │  ├─0.2_can_images
 │  ├─0.2_label.csv
 ├─get_image.py
@@ -44,8 +44,8 @@ Car-Hacking-Dataset/
 ├─training_and_evaluation.py（训练测试脚本）
 ├─print.py（模型打印脚本）
 ├─can_net_cp_0.2_20.pth
-├─can_net_cp_0.2_20.pthpruned_finetuned.pth
-├─can_net_cp_0.2_20.pthpruned_quantized.pth
+├─can_net_cp_0.2_20_pruned_finetuned.pth
+├─can_net_cp_0.2_20_pruned_quantized.pth
 ├─runs（tensorboard）
 │  └─can_net_training
 ## 2、主函数--rgb-main.py
@@ -123,12 +123,16 @@ CNN擅长识别颜色纹理异常，把时间、ID、数据长度这些维度映
 用 1 万张未见过的样本做校准，模型大小直接减半，从31.76 kB缩小到17.05 kB，而准确率几乎没有变化（保持在99.72%）
 
 ## 6 训练与评估设置——training_and_evaluation.py
+下面这些参数都可调可选
 
 - **数据集**：公开多攻击类型 CAN 日志，共 124 k 张编码图。
 - **划分**：8:1:1（Train:Val:Test），额外 10 k 张做量化校准。
-- **优化器**：Adam，批量 32；**学习率余弦退火**。
+- **优化器**：Adam，批量 32
+- **训练批次：** 20epoch，通过 **Early‑Stopping**，可在快速用 CPU 完成本地微调。
+- **学习率余弦退火**：这种策略让学习率在一个周期内像余弦函数一样，从初始值缓慢下降到接近0，可以帮助模型在训练后期更好地收敛到一个好的局部最优解。
+- **损失函数 ：** 使用 nn.CrossEntropyLoss,这是处理分类问题的标准损失函数。
 - **指标**：Accuracy/F1/FNR + 参数量、模型大小、MACs。
-通过 **Early‑Stopping**，可在快速用 CPU 完成本地微调。
+- **监控与日志 ：** 使用 TensorBoard (SummaryWriter) 记录每一轮的训练/验证损失、训练/验证准确率和当前学习率。
 
 ## 7 主要实验对比
 
