@@ -182,9 +182,10 @@
   },
   "active": "bb14c04e06ac4e59",
   "lastOpenFiles": [
+    "面试问题准备/时序违例.md",
+    "面试问题准备.md",
     "面试问题准备/关于低功耗设计.md",
     "面试问题准备/自我介绍.md",
-    "面试问题准备.md",
     "面试问题准备",
     "record/IObuffer结构.md",
     "2025-07-07.md",
@@ -227,7 +228,6 @@
     "record/weightbuffer",
     "record/inputreg",
     "assets/Pasted image 20250706171418.png",
-    "record/mem/20250702_2025_wr.md",
     "assets/Pasted image 20250702215230.png",
     "从波形能看出 3 个循环的嵌套层次：计数器 变化速度 作用N_cnt 最快 当前写的输出通道 index（1‥N）ox_cnt 中等 当前行里第几个 8-byte 列块（0‥OUT_w-1）oy_cnt 最慢 当前输出行 index（0‥OUT_h-1）未命名.canvas",
     "未命名 1.canvas"
