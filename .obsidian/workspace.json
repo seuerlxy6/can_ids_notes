@@ -8,18 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "ef7da1225a2158ec",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "assets/CAN_RGB_encoding_v4 (5).png"
-              },
-              "icon": "lucide-image",
-              "title": "CAN_RGB_encoding_v4 (5)"
-            }
-          },
-          {
             "id": "bb14c04e06ac4e59",
             "type": "leaf",
             "state": {
@@ -33,8 +21,7 @@
               "title": "关于低功耗设计"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
