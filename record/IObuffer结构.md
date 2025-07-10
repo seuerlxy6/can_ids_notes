@@ -56,3 +56,8 @@ bram要2个时钟延迟，data_a寄存要1个时钟，一共三个
 **B口写**
 无延迟
 ![[Pasted image 20250710214937.png]]
+
+
+
+
+参考手册：Block Memory Generator v8.4 LogiCORE IP Product Guide
