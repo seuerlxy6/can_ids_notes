@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "record/IObuffer结构.md",
+                "file": "2025-07-07.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "IObuffer结构"
+              "title": "2025-07-07"
             }
           }
         ]
@@ -182,14 +182,18 @@
   },
   "active": "bb14c04e06ac4e59",
   "lastOpenFiles": [
+    "record/20250707_iobuffer_源码分析.md",
     "record/20250709CAN-RGB + CANET-33K 入侵检测设计文档.md",
+    "2025-07-07.md",
+    "record/IObuffer结构.md",
+    "record/weightbuffer/20250705weightbuffer_分析思考源代码.md",
+    "record/20250706_weight buffer.md",
+    "record/20250702MEM_ctrl pipeline.md",
     "面试问题准备/自我介绍.md",
     "面试问题准备/面试问题准备.md",
     "面试问题准备/时序违例.md",
     "面试问题准备/关于低功耗设计.md",
     "面试问题准备",
-    "record/IObuffer结构.md",
-    "2025-07-07.md",
     "README.md",
     "assets/CAN_RGB_encoding_v4 (5).png",
     "assets/Pasted image 20250707221557.png",
@@ -201,15 +205,11 @@
     "未命名.canvas",
     "assets/rgb过程.png",
     "assets/Pasted image 20250709222336.png",
-    "record/20250707_iobuffer_源码分析.md",
-    "record/20250702MEM_ctrl pipeline.md",
     "record/20250704input_regfile pipeline.md",
     "2025-07-06.md",
     "2025-07-01.md",
     "2025-07-02.md",
     "2025-07-04.md",
-    "record/20250706_weight buffer.md",
-    "record/weightbuffer/20250705weightbuffer_分析思考源代码.md",
     "record/mem/20250702_1604_mem.md",
     "tb/tb_weight_buffer_0706.md",
     "rtl/weight_buffer_0706.md",
