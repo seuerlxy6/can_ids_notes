@@ -183,10 +183,11 @@
   "active": "bb14c04e06ac4e59",
   "lastOpenFiles": [
     "record/20250707_iobuffer_源码分析.md",
+    "record/IObuffer结构.md",
+    "Pasted image 20250710213618.png",
     "2025-07-10.md",
     "2025-07-07.md",
     "record/20250709CAN-RGB + CANET-33K 入侵检测设计文档.md",
-    "record/IObuffer结构.md",
     "record/weightbuffer/20250705weightbuffer_分析思考源代码.md",
     "record/20250706_weight buffer.md",
     "record/20250702MEM_ctrl pipeline.md",
@@ -219,7 +220,6 @@
     "assets/Pasted image 20250704162119.png",
     "assets/Pasted image 20250704173358.png",
     "record/20250706_weight buffer 1.md",
-    "record/20250705_coe.md",
     "spec/20250705_coe.pdf",
     "spec/20250705_1702_coe.pdf",
     "spec/20250704input_regfile pipeline.pdf",
@@ -228,7 +228,6 @@
     "record/weightbuffer",
     "record/inputreg",
     "assets/Pasted image 20250706171418.png",
-    "assets/Pasted image 20250702215230.png",
     "从波形能看出 3 个循环的嵌套层次：计数器 变化速度 作用N_cnt 最快 当前写的输出通道 index（1‥N）ox_cnt 中等 当前行里第几个 8-byte 列块（0‥OUT_w-1）oy_cnt 最慢 当前输出行 index（0‥OUT_h-1）未命名.canvas",
     "未命名 1.canvas"
   ]
