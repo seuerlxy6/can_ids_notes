@@ -25,12 +25,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "record/IObuffer结构.md",
+                "file": "面试问题准备.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "IObuffer结构"
+              "title": "面试问题准备"
             }
           }
         ],
@@ -195,12 +195,13 @@
   },
   "active": "bb14c04e06ac4e59",
   "lastOpenFiles": [
+    "record/IObuffer结构.md",
+    "面试问题准备.md",
     "2025-07-07.md",
     "README.md",
     "assets/CAN_RGB_encoding_v4 (5).png",
     "assets/Pasted image 20250707221557.png",
     "record/20250709CAN-RGB + CANET-33K 入侵检测设计文档.md",
-    "record/IObuffer结构.md",
     "算法/数据集分析.md",
     "算法",
     "unable/轻量级 CAN 总线入侵检测 CNN 软件流程设计文档.md",
