@@ -182,6 +182,7 @@
   },
   "active": "bb14c04e06ac4e59",
   "lastOpenFiles": [
+    "Pasted image 20250710225251.png",
     "Pasted image 20250710214937.png",
     "record/20250707_iobuffer_源码分析.md",
     "record/IObuffer结构.md",
@@ -228,7 +229,6 @@
     "assets/Pasted image 20250706174833.png",
     "record/weightbuffer",
     "record/inputreg",
-    "assets/Pasted image 20250706171418.png",
     "从波形能看出 3 个循环的嵌套层次：计数器 变化速度 作用N_cnt 最快 当前写的输出通道 index（1‥N）ox_cnt 中等 当前行里第几个 8-byte 列块（0‥OUT_w-1）oy_cnt 最慢 当前输出行 index（0‥OUT_h-1）未命名.canvas",
     "未命名 1.canvas"
   ]
