@@ -50,5 +50,9 @@ assign ram_wea = wrenb && (!rdena);
 ### 2、map10仿真波形
 
 **A口读延迟要三个周期？**
+bram要2个时钟延迟，data_a寄存要1个时钟，一共三个
 ![[Pasted image 20250710213618.png]]
 ****
+**B口写**
+无延迟
+![[Pasted image 20250710214937.png]]
