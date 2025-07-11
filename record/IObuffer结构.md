@@ -68,3 +68,26 @@ bram要2个时钟延迟，data_a寄存要1个时钟，一共三个
 输出最后一层fc2数据，0 or 1
 
 ### 4、整体仿真
+#### 整体框架（Ping-Pong 双 Bank）
+
+                 ┌───────── Mem_Ctrl 给 wr_addr / rd_addr ─────────┐
+                 │                                                │
+┌── 写数据选择 ──┤                                       ┌─ Bank-0 : map_10-17  ──┤─► PE 输入
+│                            │                                       │                                        │
+│                            │ Layer 偶 → 写 Bank-0   │ 读 Bank-1                        │
+│ IOB_Data_vld ─►│ Layer 奇 → 写 Bank-1   │ 读 Bank-0                        │
+└────────────────┘                                     └───────────────────────┘
+#### 关键握手关系
+
+| 信号                    | 生产者      | 消费者                       | 作用     |
+| --------------------- | -------- | ------------------------- | ------ |
+| `wr_addr` / `rd_addr` | Mem_Ctrl | 本模块 16×RAM                | 地址统一   |
+| `IOB_Data_vld`        | 输入阶段逻辑   | 写端 `wen_ram?`             | 写同步    |
+| `Mem_Data_Ivld`       | Mem_Ctrl | 读端 enb + `IOB_Data_O_vld` | 读同步    |
+| `IOB_Data_O_vld`      | 本模块      | Input_Regfile             | 数据到齐标志 |
+
+- 写：IOB_Data_vld 必须与 8×Byte 同拍 → 地址、数据、wen 都在 同一拍。
+- 读：Mem_Data_Ivld 必须与 rd_addr 同拍给 RAM，读出数据再经过 2 个 BRAM latency (2clk)，到 Input_Regfile 时用 IOB_Data_O_vld 对齐。
+B口写，A口读
+
+**`Mem_Data_Ivld`就是mem的`Data_O_vld`**	
