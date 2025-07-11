@@ -66,7 +66,7 @@ bram要2个时钟延迟，data_a寄存要1个时钟，一共三个
 
 ### 3、关于uart
 输出最后一层fc2数据，0 or 1
-
+![[Pasted image 20250711161314.png]]
 ### 4、整体仿真
 #### 整体框架（Ping-Pong 双 Bank）
 
