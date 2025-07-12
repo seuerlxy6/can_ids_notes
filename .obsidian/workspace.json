@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "record/IObuffer结构.md",
+                "file": "record/IOBuffer/20250707_iobuffer_源码分析.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "IObuffer结构"
+              "title": "20250707_iobuffer_源码分析"
             }
           }
         ]
@@ -182,16 +182,23 @@
   },
   "active": "bb14c04e06ac4e59",
   "lastOpenFiles": [
-    "Pasted image 20250711165620.png",
-    "Pasted image 20250711163003.png",
-    "Pasted image 20250711161314.png",
-    "record/20250707_iobuffer_源码分析.md",
-    "record/20250709CAN-RGB + CANET-33K 入侵检测设计文档.md",
-    "record/IObuffer结构.md",
+    "record/IOBuffer/IObuffer结构.md",
+    "record/IOBuffer/map10测试（ram1-bank1）.md",
+    "record/IOBuffer/20250707_iobuffer_源码分析.md",
+    "2025-07-12.md",
+    "2025-07-11.md",
+    "unable/轻量级 CAN 总线入侵检测 CNN 软件流程设计文档.md",
+    "unable/未命名.md",
+    "2025-07-01.md",
     "2025-07-10.md",
-    "Pasted image 20250710225251.png",
-    "Pasted image 20250710214937.png",
-    "Pasted image 20250710213618.png",
+    "record/IOBuffer",
+    "算法/20250709CAN-RGB + CANET-33K 入侵检测设计文档.md",
+    "assets/Pasted image 20250711165620.png",
+    "assets/Pasted image 20250711163003.png",
+    "assets/Pasted image 20250710213618.png",
+    "算法/Pasted image 20250711161314.png",
+    "assets/Pasted image 20250710225251.png",
+    "assets/Pasted image 20250710214937.png",
     "2025-07-07.md",
     "record/weightbuffer/20250705weightbuffer_分析思考源代码.md",
     "record/20250706_weight buffer.md",
@@ -206,7 +213,6 @@
     "assets/Pasted image 20250707221557.png",
     "算法/数据集分析.md",
     "算法",
-    "unable/轻量级 CAN 总线入侵检测 CNN 软件流程设计文档.md",
     "unable",
     "training_and_evaluation.py",
     "未命名.canvas",
@@ -214,21 +220,14 @@
     "assets/Pasted image 20250709222336.png",
     "record/20250704input_regfile pipeline.md",
     "2025-07-06.md",
-    "2025-07-01.md",
     "2025-07-02.md",
     "2025-07-04.md",
     "record/mem/20250702_1604_mem.md",
-    "tb/tb_weight_buffer_0706.md",
-    "rtl/weight_buffer_0706.md",
     "spec/20250702MEM_ctrl pipeline.pdf",
-    "tb/tb_input_regfile_0704.md",
-    "assets/Pasted image 20250704162119.png",
-    "record/20250706_weight buffer 1.md",
     "spec/20250705_coe.pdf",
     "spec/20250705_1702_coe.pdf",
     "spec/20250704input_regfile pipeline.pdf",
     "record/weightbuffer",
-    "record/inputreg",
     "从波形能看出 3 个循环的嵌套层次：计数器 变化速度 作用N_cnt 最快 当前写的输出通道 index（1‥N）ox_cnt 中等 当前行里第几个 8-byte 列块（0‥OUT_w-1）oy_cnt 最慢 当前输出行 index（0‥OUT_h-1）未命名.canvas",
     "未命名 1.canvas"
   ]
