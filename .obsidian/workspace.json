@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "record/IOBuffer/MAP10.md",
+                "file": "record/IOBuffer/IOBuffer结构.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "MAP10"
+              "title": "IOBuffer结构"
             }
           }
         ]
@@ -182,12 +182,14 @@
   },
   "active": "bb14c04e06ac4e59",
   "lastOpenFiles": [
+    "Pasted image 20250712221808.png",
+    "record/IOBuffer/IObuffer结构——错误初版.md",
+    "record/IOBuffer/MAP10.md",
+    "record/IOBuffer/IOBuffer结构.md",
+    "record/IOBuffer/20250707_iobuffer_源码分析.md",
+    "record/IOBuffer/map10测试初版（ram1-bank1）.md",
     "Pasted image 20250712215653.png",
     "Pasted image 20250712215522.png",
-    "record/IOBuffer/20250707_iobuffer_源码分析.md",
-    "record/IOBuffer/MAP10.md",
-    "record/IOBuffer/IObuffer结构.md",
-    "record/IOBuffer/map10测试（ram1-bank1）.md",
     "2025-07-12.md",
     "2025-07-11.md",
     "unable/轻量级 CAN 总线入侵检测 CNN 软件流程设计文档.md",
@@ -219,11 +221,9 @@
     "unable",
     "training_and_evaluation.py",
     "未命名.canvas",
-    "assets/rgb过程.png",
     "record/20250704input_regfile pipeline.md",
     "2025-07-06.md",
     "2025-07-02.md",
-    "2025-07-04.md",
     "spec/20250702MEM_ctrl pipeline.pdf",
     "spec/20250705_coe.pdf",
     "spec/20250705_1702_coe.pdf",
