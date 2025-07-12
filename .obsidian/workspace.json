@@ -20,6 +20,18 @@
               "icon": "lucide-file",
               "title": "IOBuffer结构"
             }
+          },
+          {
+            "id": "0d7f15f6a463f191",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "iobuffer (1).png"
+              },
+              "icon": "lucide-image",
+              "title": "iobuffer (1)"
+            }
           }
         ]
       }
@@ -78,7 +90,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "59cbebedff2c23ef",
@@ -166,7 +179,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 280.5
+    "width": 280.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -182,12 +196,13 @@
   },
   "active": "bb14c04e06ac4e59",
   "lastOpenFiles": [
+    "iobuffer (1).png",
+    "record/IOBuffer/IOBuffer结构.md",
     "Pasted image 20250712230521.png",
     "Pasted image 20250712230257.png",
     "Pasted image 20250712221808.png",
     "record/IOBuffer/IObuffer结构——错误初版.md",
     "record/IOBuffer/MAP10.md",
-    "record/IOBuffer/IOBuffer结构.md",
     "record/IOBuffer/20250707_iobuffer_源码分析.md",
     "record/IOBuffer/map10测试初版（ram1-bank1）.md",
     "Pasted image 20250712215653.png",
@@ -204,8 +219,6 @@
     "assets/Pasted image 20250711163003.png",
     "assets/Pasted image 20250710213618.png",
     "算法/Pasted image 20250711161314.png",
-    "assets/Pasted image 20250710225251.png",
-    "assets/Pasted image 20250710214937.png",
     "2025-07-07.md",
     "record/weightbuffer/20250705weightbuffer_分析思考源代码.md",
     "record/20250706_weight buffer.md",
