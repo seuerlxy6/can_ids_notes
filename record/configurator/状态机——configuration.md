@@ -98,3 +98,4 @@ Time=625000 | Layer:  0 | Main_FSM(mc_cs): 128 (bit 10000000) | Calc_FSM(or_cs):
 --- Testbench PASSED: SPU 状态机流程验证成功! ---
 ----------------------------------------------------------
 
+![[Pasted image 20250713202225.png]]
