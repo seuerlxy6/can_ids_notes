@@ -135,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "record/20250701_1845_fifo_underflow.md",
+                "file": "record/configurator/顶层.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +145,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "20250701_1845_fifo_underflow 的反向链接列表"
+              "title": "顶层 的反向链接列表"
             }
           },
           {
@@ -183,13 +183,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "record/20250705_coe.md",
+                "file": "record/configurator/顶层.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "20250705_coe 的大纲"
+              "title": "顶层 的大纲"
             }
           },
           {
