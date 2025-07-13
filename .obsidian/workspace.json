@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "record/configurator/状态机.md",
+                "file": "record/configurator/状态机——configuration.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "状态机"
+              "title": "状态机——configuration"
             }
           },
           {
@@ -197,7 +197,7 @@
   "lastOpenFiles": [
     "Pasted image 20250713160551.png",
     "record/IOBuffer/IOBuffer结构.md",
-    "record/configurator/状态机.md",
+    "record/configurator/状态机——configuration.md",
     "record/configurator",
     "Pasted image 20250713002901.png",
     "2025-07-12.md",
