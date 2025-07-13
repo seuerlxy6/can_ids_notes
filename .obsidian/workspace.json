@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "面试问题准备/时序违例.md",
+                "file": "record/weightbuffer/20250707_weight buffer.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "时序违例"
+              "title": "20250707_weight buffer"
             }
           },
           {
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "面试问题准备/时序违例.md",
+                "file": "record/weightbuffer/20250707_weight buffer.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "时序违例 的反向链接列表"
+              "title": "20250707_weight buffer 的反向链接列表"
             }
           },
           {
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "面试问题准备/时序违例.md",
+                "file": "record/weightbuffer/20250707_weight buffer.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "时序违例 的大纲"
+              "title": "20250707_weight buffer 的大纲"
             }
           },
           {
@@ -196,6 +196,7 @@
   },
   "active": "bb14c04e06ac4e59",
   "lastOpenFiles": [
+    "面试问题准备/时序违例.md",
     "面试问题准备/关于低功耗设计.md",
     "算法/20250709CAN-RGB + CANET-33K 入侵检测设计文档.md",
     "record/configurator/SPU.md",
@@ -204,7 +205,7 @@
     "assets/Pasted image 20250712230521.png",
     "assets/Pasted image 20250702215610.png",
     "record/weightbuffer/20250705weightbuffer_分析思考源代码.md",
-    "record/weightbuffer/20250706_weight buffer.md",
+    "record/weightbuffer/20250707_weight buffer.md",
     "record/weightbuffer/20250705_coe.md",
     "assets/Pasted image 20250713202517.png",
     "assets/b7145406114f0a130578ab0aee939a4d 1.png",
@@ -230,7 +231,6 @@
     "2025-07-07.md",
     "面试问题准备/自我介绍.md",
     "面试问题准备/面试问题准备.md",
-    "面试问题准备/时序违例.md",
     "面试问题准备",
     "README.md",
     "算法/数据集分析.md",
