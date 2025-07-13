@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "算法/20250709CAN-RGB + CANET-33K 入侵检测设计文档.md",
+                "file": "面试问题准备/时序违例.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "20250709CAN-RGB + CANET-33K 入侵检测设计文档"
+              "title": "时序违例"
             }
           },
           {
@@ -33,18 +33,6 @@
               },
               "icon": "lucide-file",
               "title": "顶层"
-            }
-          },
-          {
-            "id": "0d7f15f6a463f191",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "iobuffer (1).png"
-              },
-              "icon": "lucide-image",
-              "title": "iobuffer (1)"
             }
           }
         ]
@@ -104,7 +92,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 621.5
+    "width": 391.5
   },
   "right": {
     "id": "59cbebedff2c23ef",
@@ -120,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "算法/20250709CAN-RGB + CANET-33K 入侵检测设计文档.md",
+                "file": "面试问题准备/时序违例.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +118,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "20250709CAN-RGB + CANET-33K 入侵检测设计文档 的反向链接列表"
+              "title": "时序违例 的反向链接列表"
             }
           },
           {
@@ -168,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "算法/20250709CAN-RGB + CANET-33K 入侵检测设计文档.md",
+                "file": "面试问题准备/时序违例.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "20250709CAN-RGB + CANET-33K 入侵检测设计文档 的大纲"
+              "title": "时序违例 的大纲"
             }
           },
           {
@@ -208,6 +196,8 @@
   },
   "active": "bb14c04e06ac4e59",
   "lastOpenFiles": [
+    "面试问题准备/关于低功耗设计.md",
+    "算法/20250709CAN-RGB + CANET-33K 入侵检测设计文档.md",
     "record/configurator/SPU.md",
     "record/configurator/顶层.md",
     "record/mem/20250702MEM_ctrl pipeline.md",
@@ -237,12 +227,10 @@
     "2025-07-01.md",
     "2025-07-10.md",
     "record/IOBuffer",
-    "算法/20250709CAN-RGB + CANET-33K 入侵检测设计文档.md",
     "2025-07-07.md",
     "面试问题准备/自我介绍.md",
     "面试问题准备/面试问题准备.md",
     "面试问题准备/时序违例.md",
-    "面试问题准备/关于低功耗设计.md",
     "面试问题准备",
     "README.md",
     "算法/数据集分析.md",
