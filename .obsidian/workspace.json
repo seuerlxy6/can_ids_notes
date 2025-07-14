@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "record/configurator/SPU仿真.md",
+                "file": "面试问题准备/验证项目.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "SPU仿真"
+              "title": "验证项目"
             }
           },
           {
@@ -196,8 +196,9 @@
   },
   "active": "bb14c04e06ac4e59",
   "lastOpenFiles": [
-    "record/configurator/SPU.md",
     "record/configurator/SPU仿真.md",
+    "面试问题准备/验证项目.md",
+    "record/configurator/SPU.md",
     "record/IOBuffer/IOBuffer结构.md",
     "record/weightbuffer/20250707_weight buffer.md",
     "面试问题准备/时序违例.md",
@@ -234,7 +235,6 @@
     "面试问题准备/面试问题准备.md",
     "面试问题准备",
     "README.md",
-    "算法/数据集分析.md",
     "算法",
     "unable",
     "training_and_evaluation.py",
