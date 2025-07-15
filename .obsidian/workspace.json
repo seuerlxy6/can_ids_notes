@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "面试问题准备/未命名.md",
+                "file": "复制粘贴.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "未命名"
+              "title": "复制粘贴"
             }
           },
           {
@@ -196,8 +196,9 @@
   },
   "active": "bb14c04e06ac4e59",
   "lastOpenFiles": [
-    "面试问题准备/FIFO.md",
     "面试问题准备/未命名.md",
+    "复制粘贴.md",
+    "面试问题准备/FIFO.md",
     "面试问题准备/跨时钟.md",
     "面试问题准备/验证项目.md",
     "record/configurator/SPU仿真.md",
@@ -233,7 +234,6 @@
     "2025-07-01.md",
     "2025-07-10.md",
     "record/IOBuffer",
-    "2025-07-07.md",
     "面试问题准备",
     "算法",
     "unable",
