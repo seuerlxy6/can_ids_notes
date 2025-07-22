@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "面试问题准备/未命名 1.md",
+                "file": "面试问题准备/验证项目.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "未命名 1"
+              "title": "验证项目"
             }
           },
           {
@@ -180,7 +180,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 280.5
+    "width": 280.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -196,16 +197,16 @@
   },
   "active": "bb14c04e06ac4e59",
   "lastOpenFiles": [
-    "DMA项目/DMA.md",
+    "面试问题准备/未命名.md",
+    "面试问题准备/验证项目.md",
     "面试问题准备/未命名 1.md",
+    "DMA项目/DMA.md",
     "DMA项目/项目逻辑.md",
     "DMA项目/AMBA.md",
     "复制粘贴.md",
     "DMA项目",
-    "面试问题准备/未命名.md",
     "面试问题准备/FIFO.md",
     "面试问题准备/跨时钟.md",
-    "面试问题准备/验证项目.md",
     "record/configurator/SPU仿真.md",
     "record/configurator/SPU.md",
     "record/IOBuffer/IOBuffer结构.md",
