@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "面试问题准备/验证项目.md",
+                "file": "面试问题准备/FIFO.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "验证项目"
+              "title": "FIFO"
             }
           },
           {
@@ -197,12 +197,15 @@
   },
   "active": "bb14c04e06ac4e59",
   "lastOpenFiles": [
-    "面试问题准备/未命名.md",
+    "面试问题准备/自我介绍.md",
     "面试问题准备/验证项目.md",
-    "面试问题准备/未命名 1.md",
+    "面试问题准备/面试问题准备.md",
+    "2025-07-12.md",
     "DMA项目/DMA.md",
-    "DMA项目/项目逻辑.md",
     "DMA项目/AMBA.md",
+    "DMA项目/项目逻辑.md",
+    "面试问题准备/未命名.md",
+    "面试问题准备/未命名 1.md",
     "复制粘贴.md",
     "DMA项目",
     "面试问题准备/FIFO.md",
@@ -227,14 +230,11 @@
     "assets/Pasted image 20250713160551.png",
     "record/configurator",
     "assets/Pasted image 20250713002901.png",
-    "2025-07-12.md",
     "assets/Pasted image 20250713001806.png",
     "assets/Pasted image 20250713000458.png",
     "record/IOBuffer/IObuffer结构——错误初版.md",
     "record/IOBuffer/MAP10.md",
     "record/IOBuffer/20250707_iobuffer_源码分析.md",
-    "record/IOBuffer/map10测试初版（ram1-bank1）.md",
-    "2025-07-11.md",
     "record/IOBuffer",
     "面试问题准备",
     "算法",
