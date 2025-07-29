@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DMA项目/DMA.md",
+                "file": "DMA项目/bug故事.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "DMA"
+              "title": "bug故事"
             }
           },
           {
@@ -197,10 +197,11 @@
   },
   "active": "bb14c04e06ac4e59",
   "lastOpenFiles": [
+    "DMA项目/DMA.md",
+    "DMA项目/bug故事.md",
     "DMA项目/AMBA.md",
     "DMA项目/验证.md",
     "DMA项目/项目逻辑.md",
-    "DMA项目/DMA.md",
     "面试问题准备/面试问题准备.md",
     "面试问题准备/自我介绍.md",
     "Pasted image 20250727000905.png",
