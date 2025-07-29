@@ -80,3 +80,16 @@ DMA 即直接存储器访问，是一种应用在系统中高效搬运数据的�
     
 
 把这些盲区补牢，才能让经历听起来“像真的”。
+
+ ## **IT 阶段你在 SoC（C031 MPW，双核 ARM Cortex‑M）里具体验证了什么？C 程序怎么写的？**
+
+我把 IP‑级激励迁移到裸机 C 环境，围绕 **寄存器可达性／中断／异常** 三条主线设计了 4 个系统场景，全部跑在 MMIO 直访、无 RTOS 的框架下（DMA 基址 0x1C00_0000）：
+
+|场景|目标|关键步骤（内核视角）|
+|---|---|---|
+|**① 双核寄存器 & Reset**|确认 CPU0/CPU1 均能可靠访问 DMA RAL，并验证 POR / SYSRST 后 reset value|- CPU0 读写 `CTRL`, `SIZE`，CPU1 随机读回 - 下发 `SYSRST`，再次比对 all 32 个寄存器默认值|
+|**② EIRQ3 外设触发搬运**|验证硬件链路：PORT‑INT PTM → EIRQ3 → DMA → AXI|- 配置 PTM/EIRQ3 打通触发通路 - 外设脉冲拉高 EIRQ3，DMA 把 1 KB 数据从 SRAM0→SRAM1 - CRC 校验搬运结果|
+|**③ Completion Interrupt（CPU1）**|检查 Transaction‑Done 中断向量与 clear 流程|- CPU0 发起软触发 Block Transfer - CPU1 进入 WFI，捕获 `TC_IRQ` - ISR 里清 `IRQ_STATUS`，写日志标记完成|
+|**④ Halt / Resume**|评估 dma_haltreq 流控|- Pattern 定时 toggle `dma_haltreq` (200 clk 高电平) - 读 `STATUS=0x4`→halt，低电平后确认 DMA 续传并输出正确结果|
+
+四个场景共享一套 `dma_drv.c/h` 小驱动（init、kick、poll），加上 linker script 把代码放到 `0x1000_0000` ITCM、数据放到 DTCM，跑完一轮约 90 ms。所有 test case 加入 Makefile‑based regression，PASS/FAIL 由串口 log 关键字比对。
