@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DMA项目/UT故事.md",
+                "file": "DMA项目/地址别名bug故事.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "UT故事"
+              "title": "地址别名bug故事"
             }
           },
           {
@@ -197,8 +197,8 @@
   },
   "active": "bb14c04e06ac4e59",
   "lastOpenFiles": [
-    "DMA项目/bug故事.md",
     "DMA项目/UT故事.md",
+    "DMA项目/地址别名bug故事.md",
     "DMA项目/DMA.md",
     "DMA项目/AMBA.md",
     "DMA项目/验证.md",
