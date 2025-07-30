@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DMA项目/地址别名bug故事.md",
+                "file": "面试问题准备/笔试题目.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "地址别名bug故事"
+              "title": "笔试题目"
             }
           },
           {
@@ -197,8 +197,10 @@
   },
   "active": "bb14c04e06ac4e59",
   "lastOpenFiles": [
-    "DMA项目/UT故事.md",
+    "Pasted image 20250730173810.png",
     "DMA项目/地址别名bug故事.md",
+    "面试问题准备/笔试题目.md",
+    "DMA项目/UT故事.md",
     "DMA项目/DMA.md",
     "DMA项目/AMBA.md",
     "DMA项目/验证.md",
@@ -210,7 +212,6 @@
     "面试问题准备/FIFO.md",
     "面试问题准备/验证项目.md",
     "2025-07-12.md",
-    "面试问题准备/未命名.md",
     "面试问题准备/未命名 1.md",
     "复制粘贴.md",
     "DMA项目",
@@ -227,7 +228,6 @@
     "assets/Pasted image 20250712230521.png",
     "assets/Pasted image 20250702215610.png",
     "record/weightbuffer/20250705weightbuffer_分析思考源代码.md",
-    "record/weightbuffer/20250705_coe.md",
     "assets/Pasted image 20250713202517.png",
     "assets/b7145406114f0a130578ab0aee939a4d 1.png",
     "assets/b7145406114f0a130578ab0aee939a4d.png",
