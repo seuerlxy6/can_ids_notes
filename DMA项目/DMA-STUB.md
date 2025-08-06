@@ -14,6 +14,8 @@ dma_uvm/
 ### 2 | env
 
 ![[Pasted image 20250806173021.png]]
+![[Pasted image 20250806231304.png]]
+![[Pasted image 20250806231333.png]]
 #### `dma_driver.sv` 的详细解释
 ### `dma_scoreboard.sv` 的详细解释
 
