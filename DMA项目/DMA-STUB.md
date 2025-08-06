@@ -14,7 +14,7 @@ dma_uvm/
 ### 2 | env
 
 ![[Pasted image 20250806173021.png]]
-
+#### `dma_driver.sv` 的详细解释
 ### `dma_scoreboard.sv` 的详细解释
 
 `dma_scoreboard`的**核心职责是判断DUT（设计）的行为是否正确**。它像一个裁判，根据从Monitor收集到的信息来打分。
