@@ -74,7 +74,6 @@ endclass
 
 `basic_test`是一个具体的UVM测试用例。它的**核心职责是配置验证环境，并定义测试的执行流程和结束条件**。
 
-Code snippet
 
 ```
 // File: basic_test.sv
