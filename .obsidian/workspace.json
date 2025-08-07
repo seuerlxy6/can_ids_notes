@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DMA项目/DMA-STUB.md",
+                "file": "DMA项目/验证.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "DMA-STUB"
+              "title": "验证"
             }
           },
           {
@@ -197,11 +197,11 @@
   },
   "active": "bb14c04e06ac4e59",
   "lastOpenFiles": [
+    "DMA项目/DMA-STUB.md",
     "Pasted image 20250806231333.png",
     "Pasted image 20250806231304.png",
     "Pasted image 20250806173021.png",
     "DMA项目/地址别名bug故事.md",
-    "DMA项目/DMA-STUB.md",
     "DMA项目/项目逻辑.md",
     "DMA项目/验证.md",
     "DMA项目/AMBA.md",
@@ -233,7 +233,6 @@
     "assets/Pasted image 20250712230521.png",
     "assets/Pasted image 20250702215610.png",
     "assets/Pasted image 20250713202517.png",
-    "assets/b7145406114f0a130578ab0aee939a4d 1.png",
     "record/configurator",
     "record/IOBuffer",
     "面试问题准备",
