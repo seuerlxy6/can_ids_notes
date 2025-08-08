@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DMA项目/验证.md",
+                "file": "面试问题准备/面向CAN总线入侵检测的CNN硬件加速器 项目总结.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "验证"
+              "title": "面向CAN总线入侵检测的CNN硬件加速器 项目总结"
             }
           },
           {
@@ -197,6 +197,8 @@
   },
   "active": "bb14c04e06ac4e59",
   "lastOpenFiles": [
+    "DMA项目/验证.md",
+    "面试问题准备/面向CAN总线入侵检测的CNN硬件加速器 项目总结.md",
     "Pasted image 20250807215134.png",
     "Pasted image 20250807162022.png",
     "Pasted image 20250807154848.png",
@@ -206,7 +208,6 @@
     "Pasted image 20250806173021.png",
     "DMA项目/地址别名bug故事.md",
     "DMA项目/项目逻辑.md",
-    "DMA项目/验证.md",
     "DMA项目/AMBA.md",
     "DMA项目/DMA.md",
     "DMA项目/UT故事.md",
@@ -233,7 +234,6 @@
     "算法/20250709CAN-RGB + CANET-33K 入侵检测设计文档.md",
     "record/configurator/顶层.md",
     "record/mem/20250702MEM_ctrl pipeline.md",
-    "assets/Pasted image 20250712230521.png",
     "record/configurator",
     "record/IOBuffer",
     "面试问题准备",
