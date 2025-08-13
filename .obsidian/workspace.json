@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "面试问题准备/面向CAN总线入侵检测的CNN硬件加速器 项目总结.md",
+                "file": "算法/20250709CAN-RGB + CANET-33K 入侵检测设计文档.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "面向CAN总线入侵检测的CNN硬件加速器 项目总结"
+              "title": "20250709CAN-RGB + CANET-33K 入侵检测设计文档"
             }
           },
           {
@@ -197,10 +197,10 @@
   },
   "active": "bb14c04e06ac4e59",
   "lastOpenFiles": [
+    "面试问题准备/面向CAN总线入侵检测的CNN硬件加速器 项目总结.md",
     "面试问题准备/关于低功耗设计.md",
     "面试问题准备/笔试题目.md",
     "面试问题准备/DMA控制器UVM验证项目 总结.md",
-    "面试问题准备/面向CAN总线入侵检测的CNN硬件加速器 项目总结.md",
     "DMA项目/验证.md",
     "Pasted image 20250807215134.png",
     "Pasted image 20250807162022.png",
