@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "面试问题准备/未命名.md",
+                "file": "面试问题准备/状态机.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "未命名"
+              "title": "状态机"
             }
           },
           {
@@ -198,7 +198,7 @@
   "active": "bb14c04e06ac4e59",
   "lastOpenFiles": [
     "算法/论文修改总结及审稿意见回应 (Response to Reviewers).md",
-    "面试问题准备/未命名.md",
+    "面试问题准备/状态机.md",
     "算法/20250709CAN-RGB + CANET-33K 入侵检测设计文档.md",
     "面试问题准备/面向CAN总线入侵检测的CNN硬件加速器 项目总结.md",
     "面试问题准备/关于低功耗设计.md",
