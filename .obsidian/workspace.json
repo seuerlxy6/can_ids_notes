@@ -25,12 +25,14 @@
             "id": "1f3dc24b4b801cd3",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.9.10"
+                "file": "面试问题准备/DMA控制器UVM验证项目 总结.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-book-up",
-              "title": "版本说明 1.9.10"
+              "icon": "lucide-file",
+              "title": "DMA控制器UVM验证项目 总结"
             }
           }
         ],
