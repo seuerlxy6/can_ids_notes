@@ -25,14 +25,12 @@
             "id": "1f3dc24b4b801cd3",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "面试问题准备/面试问题准备.md",
-                "mode": "source",
-                "source": false
+                "file": "spec/20250705_coe.pdf"
               },
-              "icon": "lucide-file",
-              "title": "面试问题准备"
+              "icon": "lucide-file-text",
+              "title": "20250705_coe"
             }
           }
         ],
@@ -199,12 +197,22 @@
   },
   "active": "1f3dc24b4b801cd3",
   "lastOpenFiles": [
+    "spec/20250705_1702_coe.pdf",
+    "spec/20250704input_regfile pipeline.pdf",
+    "spec/20250702MEM_ctrl pipeline.pdf",
+    "record/weightbuffer/20250707_weight buffer.md",
+    "record/weightbuffer/20250705weightbuffer_分析思考源代码.md",
+    "record/weightbuffer/20250705_coe.md",
+    "算法/论文修改总结及审稿意见回应 (Response to Reviewers).md",
+    "算法/20250709CAN-RGB + CANET-33K 入侵检测设计文档.md",
+    "算法/数据集分析.md",
+    "未命名.base",
+    "面试问题准备/面试问题准备.md",
     "面试问题准备/DMA控制器UVM验证项目 总结.md",
     "面试问题准备/面向CAN总线入侵检测的CNN硬件加速器 项目总结.md",
     "DMA项目/DMA-STUB.md",
     "DMA项目/UT故事.md",
     "DMA项目/地址别名bug故事.md",
-    "面试问题准备/面试问题准备.md",
     "面试问题准备/验证项目.md",
     "面试问题准备/笔试题目.md",
     "Pasted image 20250818220110.png",
@@ -218,8 +226,6 @@
     "Pasted image 20250818204145.png",
     "Pasted image 20250817173456.png",
     "面试问题准备/状态机.md",
-    "算法/论文修改总结及审稿意见回应 (Response to Reviewers).md",
-    "算法/20250709CAN-RGB + CANET-33K 入侵检测设计文档.md",
     "面试问题准备/关于低功耗设计.md",
     "DMA项目/验证.md",
     "DMA项目/项目逻辑.md",
@@ -231,10 +237,6 @@
     "面试问题准备/未命名 1.md",
     "复制粘贴.md",
     "DMA项目",
-    "面试问题准备/跨时钟.md",
-    "record/configurator/SPU仿真.md",
-    "record/configurator/SPU.md",
-    "record/IOBuffer/IOBuffer结构.md",
     "record/configurator",
     "record/IOBuffer",
     "面试问题准备",
@@ -242,9 +244,6 @@
     "unable",
     "training_and_evaluation.py",
     "未命名.canvas",
-    "spec/20250702MEM_ctrl pipeline.pdf",
-    "spec/20250705_coe.pdf",
-    "spec/20250705_1702_coe.pdf",
     "从波形能看出 3 个循环的嵌套层次：计数器 变化速度 作用N_cnt 最快 当前写的输出通道 index（1‥N）ox_cnt 中等 当前行里第几个 8-byte 列块（0‥OUT_w-1）oy_cnt 最慢 当前输出行 index（0‥OUT_h-1）未命名.canvas",
     "未命名 1.canvas"
   ]
