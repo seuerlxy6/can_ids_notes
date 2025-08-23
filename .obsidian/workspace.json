@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "面试问题准备/FFT加速器.md",
+                "file": "面试问题准备/自我介绍.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "FFT加速器"
+              "title": "自我介绍"
             }
           },
           {
@@ -234,8 +234,13 @@
   },
   "active": "bb14c04e06ac4e59",
   "lastOpenFiles": [
+    "面试问题准备/面试问题准备.md",
+    "面试问题准备/4、FFT加速器.md",
+    "面试问题准备/3、掌静脉项目.md",
+    "面试问题准备/2、面向CAN总线入侵检测的CNN硬件加速器 项目总结.md",
+    "面试问题准备/1、验证项目.md",
+    "面试问题准备/DMA控制器UVM验证项目 总结.md",
     "record/weightbuffer/20250705weightbuffer_分析思考源代码.md",
-    "面试问题准备/FFT加速器.md",
     "record/weightbuffer/20250705_coe.md",
     "record/mem/20250702MEM_ctrl pipeline.md",
     "record/mem/20250702_2056_wt.md",
@@ -248,7 +253,6 @@
     "record/IOBuffer/IOBuffer结构.md",
     "record/inputreg/20250704input_regfile pipeline.md",
     "record/inputreg/20250703input_regfile_分析思考源代码.md",
-    "面试问题准备/DMA控制器UVM验证项目 总结.md",
     "assets/Pasted image 20250702215610.png",
     "assets/Pasted image 20250702215230.png",
     "assets/Pasted image 20250702214719.png",
@@ -264,10 +268,6 @@
     "算法/20250709CAN-RGB + CANET-33K 入侵检测设计文档.md",
     "算法/数据集分析.md",
     "未命名.base",
-    "面试问题准备/面试问题准备.md",
-    "面试问题准备/面向CAN总线入侵检测的CNN硬件加速器 项目总结.md",
-    "DMA项目/DMA-STUB.md",
-    "DMA项目/UT故事.md",
     "Pasted image 20250818220110.png",
     "Pasted image 20250818220103.png",
     "Pasted image 20250818220050.png",
