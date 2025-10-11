@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "面试问题准备/0917.md",
+                "file": "record/inputreg/20250703input_regfile_分析思考源代码.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "0917"
+              "title": "20250703input_regfile_分析思考源代码"
             }
           }
         ],
@@ -199,8 +199,16 @@
   },
   "active": "556504aeca7ddf31",
   "lastOpenFiles": [
-    "面试问题准备/1、验证项目.md",
+    "record/configurator/SPU仿真.md",
+    "record/configurator/SPU.md",
+    "record/configurator/顶层.md",
+    "record/IOBuffer/20250707_iobuffer_源码分析.md",
+    "record/inputreg/20250703input_regfile_分析思考源代码.md",
+    "算法/数据集分析.md",
+    "算法/论文修改总结及审稿意见回应 (Response to Reviewers).md",
+    "算法/20250709CAN-RGB + CANET-33K 入侵检测设计文档.md",
     "面试问题准备/0917.md",
+    "面试问题准备/1、验证项目.md",
     "面试问题准备/面试问题准备.md",
     "面试问题准备/4、FFT加速器.md",
     "面试问题准备/3、掌静脉项目.md",
@@ -215,23 +223,15 @@
     "record/mem/20250702_1604_mem.md",
     "record/IOBuffer/IObuffer结构——错误初版.md",
     "record/IOBuffer/MAP10.md",
-    "record/IOBuffer/20250707_iobuffer_源码分析.md",
     "record/IOBuffer/IOBuffer结构.md",
     "record/inputreg/20250704input_regfile pipeline.md",
-    "record/inputreg/20250703input_regfile_分析思考源代码.md",
     "assets/Pasted image 20250702215610.png",
     "assets/Pasted image 20250702215230.png",
     "assets/Pasted image 20250702214719.png",
-    "record/configurator/SPU.md",
-    "record/configurator/顶层.md",
-    "unable/轻量级 CAN 总线入侵检测 CNN 软件流程设计文档.md",
     "spec/20250705_coe.pdf",
     "spec/20250705_1702_coe.pdf",
     "spec/20250704input_regfile pipeline.pdf",
     "spec/20250702MEM_ctrl pipeline.pdf",
-    "record/weightbuffer/20250707_weight buffer.md",
-    "算法/论文修改总结及审稿意见回应 (Response to Reviewers).md",
-    "算法/20250709CAN-RGB + CANET-33K 入侵检测设计文档.md",
     "未命名.base",
     "Pasted image 20250818220110.png",
     "Pasted image 20250818220103.png",
