@@ -39,12 +39,14 @@
             "id": "9c1be7fa39251eae",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.9.14"
+                "file": "record/关于pe乘加的数据溢出.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-book-up",
-              "title": "版本说明 1.9.14"
+              "icon": "lucide-file",
+              "title": "关于pe乘加的数据溢出"
             }
           }
         ],
@@ -211,6 +213,7 @@
   },
   "active": "9c1be7fa39251eae",
   "lastOpenFiles": [
+    "record/关于pe乘加的数据溢出.md",
     "record/IOBuffer/IObuffer结构——错误初版.md",
     "record/IOBuffer/map10测试初版（ram1-bank1）.md",
     "record/inputreg/20250704input_regfile pipeline.md",
@@ -237,7 +240,6 @@
     "record/weightbuffer/20250705_coe.md",
     "record/mem/20250702_2056_wt.md",
     "record/mem/20250702_2025_wr.md",
-    "record/mem/20250702_1635_mem.md",
     "assets/Pasted image 20250702215610.png",
     "assets/Pasted image 20250702215230.png",
     "assets/Pasted image 20250702214719.png",
