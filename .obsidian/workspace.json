@@ -39,12 +39,14 @@
             "id": "9c1be7fa39251eae",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "spec/20250702MEM_ctrl pipeline.pdf"
+                "file": "算法/20250709CAN-RGB + CANET-33K 入侵检测设计文档.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "20250702MEM_ctrl pipeline"
+              "icon": "lucide-file",
+              "title": "20250709CAN-RGB + CANET-33K 入侵检测设计文档"
             }
           }
         ],
@@ -211,6 +213,12 @@
   },
   "active": "9c1be7fa39251eae",
   "lastOpenFiles": [
+    "record/IOBuffer/IOBuffer结构.md",
+    "record/configurator/顶层.md",
+    "record/inputreg/20250703input_regfile_分析思考源代码.md",
+    "record/configurator/SPU仿真.md",
+    "record/configurator/SPU.md",
+    "spec/20250702MEM_ctrl pipeline.pdf",
     "算法/论文修改总结及审稿意见回应 (Response to Reviewers).md",
     "record/关于pe乘加的数据溢出.md",
     "record/IOBuffer/IObuffer结构——错误初版.md",
@@ -219,11 +227,6 @@
     "record/mem/20250702MEM_ctrl pipeline.md",
     "rtl/input_regfile_0704.md",
     "unable/轻量级 CAN 总线入侵检测 CNN 软件流程设计文档.md",
-    "spec/20250702MEM_ctrl pipeline.pdf",
-    "record/inputreg/20250703input_regfile_分析思考源代码.md",
-    "record/configurator/SPU仿真.md",
-    "record/configurator/SPU.md",
-    "record/configurator/顶层.md",
     "record/IOBuffer/20250707_iobuffer_源码分析.md",
     "算法/数据集分析.md",
     "算法/20250709CAN-RGB + CANET-33K 入侵检测设计文档.md",
@@ -237,7 +240,6 @@
     "record/weightbuffer/20250705weightbuffer_分析思考源代码.md",
     "record/weightbuffer/20250705_coe.md",
     "record/mem/20250702_2056_wt.md",
-    "record/mem/20250702_2025_wr.md",
     "assets/Pasted image 20250702215610.png",
     "assets/Pasted image 20250702215230.png",
     "assets/Pasted image 20250702214719.png",
