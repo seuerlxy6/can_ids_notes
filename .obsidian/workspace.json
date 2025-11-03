@@ -39,14 +39,12 @@
             "id": "9c1be7fa39251eae",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "record/关于pe乘加的数据溢出.md",
-                "mode": "source",
-                "source": false
+                "file": "spec/20250702MEM_ctrl pipeline.pdf"
               },
-              "icon": "lucide-file",
-              "title": "关于pe乘加的数据溢出"
+              "icon": "lucide-file-text",
+              "title": "20250702MEM_ctrl pipeline"
             }
           }
         ],
@@ -213,6 +211,7 @@
   },
   "active": "9c1be7fa39251eae",
   "lastOpenFiles": [
+    "算法/论文修改总结及审稿意见回应 (Response to Reviewers).md",
     "record/关于pe乘加的数据溢出.md",
     "record/IOBuffer/IObuffer结构——错误初版.md",
     "record/IOBuffer/map10测试初版（ram1-bank1）.md",
@@ -227,7 +226,6 @@
     "record/configurator/顶层.md",
     "record/IOBuffer/20250707_iobuffer_源码分析.md",
     "算法/数据集分析.md",
-    "算法/论文修改总结及审稿意见回应 (Response to Reviewers).md",
     "算法/20250709CAN-RGB + CANET-33K 入侵检测设计文档.md",
     "面试问题准备/0917.md",
     "面试问题准备/1、验证项目.md",
