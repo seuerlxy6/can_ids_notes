@@ -6,3 +6,4 @@ https://www.amd.com/en/products/adaptive-socs-and-fpgas/intellectual-property/bl
 https://docs.amd.com/v/u/en-US/pg058-blk-mem-gen
 ![[Pasted image 20251104172909.png]]
 ![[Pasted image 20251104174710.png]]
+![[Pasted image 20251104175449.png]]

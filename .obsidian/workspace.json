@@ -62,7 +62,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -223,10 +223,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "5471784195c57fa6",
+  "active": "9c1be7fa39251eae",
   "lastOpenFiles": [
-    "record/IOBuffer/map10测试初版（ram1-bank1）.md",
     "record/IOBuffer/memorymap1.md",
+    "Pasted image 20251104175449.png",
+    "record/IOBuffer/map10测试初版（ram1-bank1）.md",
+    "assets/Pasted image 20250710213618.png",
     "Pasted image 20251104174710.png",
     "Pasted image 20251104174655.png",
     "Pasted image 20251104172909.png",
@@ -263,8 +265,6 @@
     "未命名.base",
     "Pasted image 20250818220110.png",
     "Pasted image 20250818220103.png",
-    "Pasted image 20250818220050.png",
-    "Pasted image 20250818220044.png",
     "DMA项目",
     "record/configurator",
     "record/IOBuffer",
