@@ -9,3 +9,5 @@ https://docs.amd.com/v/u/en-US/pg058-blk-mem-gen
 ![[Pasted image 20251104175449.png]]
 ![[Pasted image 20251104175736.png]]
 选择原始输出寄存器，读数据延迟2拍
+
+`Mem_Data_Ivld` 这个信号的作用是：**由 Memory Controller 告诉 In_Out_Buffer，“我这拍发出的读地址对应的数据在这拍有效”**。它是**读数据握手的有效标志**。
