@@ -5,3 +5,4 @@ uart串口最终输出2个8bit数据，即为最终fc的输出结果，这部分
 https://www.amd.com/en/products/adaptive-socs-and-fpgas/intellectual-property/block_memory_generator.html
 https://docs.amd.com/v/u/en-US/pg058-blk-mem-gen
 ![[Pasted image 20251104172909.png]]
+![[Pasted image 20251104174710.png]]
