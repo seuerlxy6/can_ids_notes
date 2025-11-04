@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "record/IOBuffer/map10测试初版（ram1-bank1）.md",
+                "file": "record/IOBuffer/memorymap1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "map10测试初版（ram1-bank1）"
+              "title": "memorymap1"
             }
           },
           {
@@ -225,9 +225,10 @@
   },
   "active": "9c1be7fa39251eae",
   "lastOpenFiles": [
+    "Pasted image 20251104175736.png",
+    "record/IOBuffer/map10测试初版（ram1-bank1）.md",
     "record/IOBuffer/memorymap1.md",
     "Pasted image 20251104175449.png",
-    "record/IOBuffer/map10测试初版（ram1-bank1）.md",
     "assets/Pasted image 20250710213618.png",
     "Pasted image 20251104174710.png",
     "Pasted image 20251104174655.png",
