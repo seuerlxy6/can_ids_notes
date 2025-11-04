@@ -8,4 +8,4 @@ https://docs.amd.com/v/u/en-US/pg058-blk-mem-gen
 ![[Pasted image 20251104174710.png]]
 ![[Pasted image 20251104175449.png]]
 ![[Pasted image 20251104175736.png]]
-读数据延迟2拍
+选择原始输出寄存器，读数据延迟2拍
