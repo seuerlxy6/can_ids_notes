@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "record/IOBuffer/20250707_iobuffer_源码分析.md",
+                "file": "record/IOBuffer/memorymap1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "20250707_iobuffer_源码分析"
+              "title": "memorymap1"
             }
           }
         ],
@@ -213,6 +213,8 @@
   },
   "active": "9c1be7fa39251eae",
   "lastOpenFiles": [
+    "record/IOBuffer/20250707_iobuffer_源码分析.md",
+    "record/IOBuffer/memorymap1.md",
     "算法/20250709CAN-RGB + CANET-33K 入侵检测设计文档.md",
     "record/IOBuffer/IOBuffer结构.md",
     "record/configurator/顶层.md",
@@ -228,7 +230,6 @@
     "record/mem/20250702MEM_ctrl pipeline.md",
     "rtl/input_regfile_0704.md",
     "unable/轻量级 CAN 总线入侵检测 CNN 软件流程设计文档.md",
-    "record/IOBuffer/20250707_iobuffer_源码分析.md",
     "算法/数据集分析.md",
     "面试问题准备/0917.md",
     "面试问题准备/1、验证项目.md",
@@ -239,7 +240,6 @@
     "面试问题准备/DMA控制器UVM验证项目 总结.md",
     "record/weightbuffer/20250705weightbuffer_分析思考源代码.md",
     "record/weightbuffer/20250705_coe.md",
-    "record/mem/20250702_2056_wt.md",
     "assets/Pasted image 20250702215610.png",
     "assets/Pasted image 20250702215230.png",
     "assets/Pasted image 20250702214719.png",
