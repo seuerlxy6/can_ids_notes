@@ -8,8 +8,8 @@ assign ram_wea = wrenb && (!rdena);
 
 | 信号          | 来源                     | 含义                                       |
 | ----------- | ---------------------- | ---------------------------------------- |
-| **`wrenb`** | 写端口 B 的 `write enable` | “**想写**”——In-Out-Buffer 把新特征图送进 BRAM 时拉高 |
-| **`rdena`** | 读端口 A 的 `read enable`  | “**正在读**”——Mem-Ctrl/PE 要从同一块 BRAM 读数据时拉高 |
+| **`wrenb`** | 写信号 B 的 `write enable` | “**想写**”——In-Out-Buffer 把新特征图送进 BRAM 时拉高 |
+| **`rdena`** | 读信号 A 的 `read enable`  | “**正在读**”——Mem-Ctrl/PE 要从同一块 BRAM 读数据时拉高 |
 
 > **目的：** **同一个时钟沿**里如果既想写又想读，就**先保证读**，把写关掉，避免**读写冲突**。
 
