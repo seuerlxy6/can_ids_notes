@@ -42,7 +42,7 @@ bram要2个时钟延迟，data_a寄存要1个时钟，一共三个
 参考手册：Block Memory Generator v8.4 LogiCORE IP Product Guide
 
 ### 3、关于uart
-输出最后一层fc2数据，0 or 1
+输出最后一层fc2数据
 ![[Pasted image 20250711165620.png]]
 ### 4、整体仿真
 #### 整体框架（Ping-Pong 双 Bank）

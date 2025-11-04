@@ -48,9 +48,21 @@
               "icon": "lucide-file",
               "title": "map10测试初版（ram1-bank1）"
             }
+          },
+          {
+            "id": "5471784195c57fa6",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "assets/Pasted image 20250710213618.png"
+              },
+              "icon": "lucide-image",
+              "title": "Pasted image 20250710213618"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -211,8 +223,9 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "9c1be7fa39251eae",
+  "active": "5471784195c57fa6",
   "lastOpenFiles": [
+    "record/IOBuffer/map10测试初版（ram1-bank1）.md",
     "record/IOBuffer/memorymap1.md",
     "Pasted image 20251104174710.png",
     "Pasted image 20251104174655.png",
@@ -228,7 +241,6 @@
     "算法/论文修改总结及审稿意见回应 (Response to Reviewers).md",
     "record/关于pe乘加的数据溢出.md",
     "record/IOBuffer/IObuffer结构——错误初版.md",
-    "record/IOBuffer/map10测试初版（ram1-bank1）.md",
     "record/inputreg/20250704input_regfile pipeline.md",
     "record/mem/20250702MEM_ctrl pipeline.md",
     "rtl/input_regfile_0704.md",
