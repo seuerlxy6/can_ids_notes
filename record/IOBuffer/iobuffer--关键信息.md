@@ -21,29 +21,30 @@
     
 - **乒乓控制信号:** `nn_layer_cnt[0]` (即层号的奇偶性)。
     
+## 完整的乒乓周期
 
-**乒乓操作流程如下：**
 
-- **当层号为偶数 (Even Layers, 如 0, 2, ...):**
+- **Layer 1 (nn_layer_cnt=1, 奇数):**
     
-    - `nn_layer_cnt[0] == 0`
+    - **读** Bank-1 (你的 `.coe` 输入)
         
-    - **写使能 (Write):** `wen_ram1` 有效 ( `~nn_layer_cnt[0]` )。
+    - **写** Bank-2 (Layer 1 的输出)
         
-    - **读使能 (Read):** RAM2 的 `rdena` 有效 ( `~nn_layer_cnt[0]` )。
-        
-    - **结论:** 在偶数层，计算结果**写入 Bank-1**，同时从 **Bank-2** 读取数据（作为本层的输入）。
-        
-- **当层号为奇数 (Odd Layers, 如 1, 3, ...):**
+- **Layer 2 (nn_layer_cnt=2, 偶数):**
     
-    - `nn_layer_cnt[0] == 1`
+    - `layer_processing_done` 触发，`nn_layer_cnt` 变为 2。
         
-    - **写使能 (Write):** `wen_ram2` 有效 ( `nn_layer_cnt[0]` )。
+    - **读** Bank-2 (Layer 1 的输出)
         
-    - **读使能 (Read):** RAM1 的 `rdena` 有效 ( `nn_layer_cnt[0]` )。
+    - **写** Bank-1 (Layer 2 的输出)
         
-    - **结论:** 在奇数层，计算结果**写入 Bank-2**，同时从 **Bank-1** 读取数据（作为本层的输入）。
+- **Layer 3 (nn_layer_cnt=3, 奇数):**
+    
+    - `layer_processing_done` 触发，`nn_layer_cnt` 变为 3。
         
+    - **读** Bank-1 (Layer 2 的输出)
+        
+    - **写** Bank-2 (Layer 3 的输出)
 
 > **总结：** 这个设计完美地实现了流水线操作。当第 N 层在计算（从一个 Bank _读取_ IFM）时，第 N-1 层的计算结果（OFM）可以同时_写入_到另一个 Bank，两者互不干扰。
 
@@ -53,20 +54,20 @@
 
 我们按模块交互对象来梳理：
 
-|**交互模块**|**信号 (I/O)**|**方向 (Direction)**|**描述 (Logic & Handshake)**|
-|---|---|---|---|
-|**全局**|`clk_cal`, `rst_cal_n`|Input|时钟和复位。|
-|**`spu` / `Mem_Ctrl`**<br><br>  <br><br>**(控制器)**|`nn_layer_cnt [3:0]`|Input|**[核心控制]** 当前层号。`[0]` 位用于乒乓切换。|
-||`wr_addr [12:0]`|Input|**[核心控制]** 写地址。由控制器（`Mem_Ctrl`）产生。|
-||`rd_addr [12:0]`|Input|**[核心控制]** 读地址。由控制器（`Mem_Ctrl`）产生。|
-||`Mem_Data_Ivld`|Input|**[读握手: 输入]** "内存数据输入有效" (Input Valid)。这是来自 `Mem_Ctrl` 的**读使能**信号，它告诉 IOB："请在 `rd_addr` 上开始一次读取"。|
-||`SPI_start`|Input|特殊模式标志，用于第0层加载CAN/ECG原始信号。|
-|**`Conv/Pool` 单元**<br><br>  <br><br>**(写入方)**|`IOB_Data_I_vld`|Input|**[写握手: 输入]** Conv/Pool 模块的数据有效信号。|
-||`IOB_Data_I0...I7`|Input|8 字节宽的**数据输入** (来自 Conv/Pool)。|
-|**`FC` 单元**<br><br>  <br><br>**(写入方)**|`IOB_FC_vld`|Input|**[写握手: 输入]** FC 模块的数据有效信号。|
-||`IOB_FC_I0...I7`|Input|8 字节宽的**数据输入** (来自 FC)。|
-|**`Input_Regfile`**<br><br>  <br><br>**(读取方)**|`IOB_Data_O0...O7`|Output|8 字节宽的**数据输出**（喂给下一级 `Input_Regfile`）。|
-||`IOB_Data_O_vld`|Output|**[读握手: 输出]** "IOB 数据输出有效" (Output Valid)。|
+| **交互模块**                                          | **信号 (I/O)**           | **方向 (Direction)** | **描述 (Logic & Handshake)**                                                                     |
+| ------------------------------------------------- | ---------------------- | ------------------ | ---------------------------------------------------------------------------------------------- |
+| **全局**                                            | `clk_cal`, `rst_cal_n` | Input              | 时钟和复位。                                                                                         |
+| **`spu` / `Mem_Ctrl`**<br><br>  <br><br>**(控制器)** | `nn_layer_cnt [3:0]`   | Input              | **[核心控制]** 当前层号。`[0]` 位用于乒乓切换。                                                                 |
+|                                                   | `wr_addr [12:0]`       | Input              | **[核心控制]** 写地址。由控制器（`Mem_Ctrl`）产生。                                                             |
+|                                                   | `rd_addr [12:0]`       | Input              | **[核心控制]** 读地址。由控制器（`Mem_Ctrl`）产生。                                                             |
+|                                                   | `Mem_Data_Ivld`        | Input              | **[读握手: 输入]**"内存数据输入有效" (Input Valid)。这是来自 `Mem_Ctrl` 的*读使能*信号，它告诉 IOB："请在 `rd_addr` 上开始一次读取"。 |
+|                                                   | `SPI_start`            | Input              | 特殊模式标志，用于第1层加载CAN/ECG原始信号。                                                                     |
+| **`Conv/Pool` 单元**<br><br>  <br><br>**(写入方)**     | `IOB_Data_I_vld`       | Input              | **[写握手: 输入]** Conv/Pool 模块的数据有效信号。                                                             |
+|                                                   | `IOB_Data_I0...I7`     | Input              | 8 字节宽的**数据输入** (来自 Conv/Pool)。                                                                 |
+| **`FC` 单元**<br><br>  <br><br>**(写入方)**            | `IOB_FC_vld`           | Input              | **[写握手: 输入]** FC 模块的数据有效信号。                                                                    |
+|                                                   | `IOB_FC_I0...I7`       | Input              | 8 字节宽的**数据输入** (来自 FC)。                                                                        |
+| **`Input_Regfile`**<br><br>  <br><br>**(读取方)**    | `IOB_Data_O0...O7`     | Output             | 8 字节宽的**数据输出**（喂给下一级 `Input_Regfile`）。                                                         |
+|                                                   | `IOB_Data_O_vld`       | Output             | **[读握手: 输出]** "IOB 数据输出有效" (Output Valid)。                                                     |
 
 ---
 
