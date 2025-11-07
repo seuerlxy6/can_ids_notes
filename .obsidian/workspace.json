@@ -13,12 +13,72 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "record/IOBuffer/IOBuffer结构.md",
+                "file": "record/mem/20250702MEM_ctrl pipeline.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "IOBuffer结构"
+              "title": "20250702MEM_ctrl pipeline"
+            }
+          },
+          {
+            "id": "6e935003337582fb",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "assets/Pasted image 20250702220648.png"
+              },
+              "icon": "lucide-image",
+              "title": "Pasted image 20250702220648"
+            }
+          },
+          {
+            "id": "fddafa1f4bda7127",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "assets/Pasted image 20250702220423.png"
+              },
+              "icon": "lucide-image",
+              "title": "Pasted image 20250702220423"
+            }
+          },
+          {
+            "id": "cc6a476e0d7ad4cc",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "assets/Pasted image 20250702220103.png"
+              },
+              "icon": "lucide-image",
+              "title": "Pasted image 20250702220103"
+            }
+          },
+          {
+            "id": "da93f3948cff4b8e",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "assets/Pasted image 20250702215610.png"
+              },
+              "icon": "lucide-image",
+              "title": "Pasted image 20250702215610"
+            }
+          },
+          {
+            "id": "430ed3ba7526184f",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "assets/Pasted image 20250702215230.png"
+              },
+              "icon": "lucide-image",
+              "title": "Pasted image 20250702215230"
             }
           },
           {
@@ -33,8 +93,7 @@
               "title": "iobuffer (1)"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -195,12 +254,19 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "2327d1920bab7478",
+  "active": "5471784195c57fa6",
   "lastOpenFiles": [
+    "assets/Pasted image 20250702220648.png",
+    "record/mem/20250702MEM_ctrl pipeline.md",
+    "assets/iobuffer (1).png",
+    "assets/Pasted image 20250702215610.png",
+    "assets/Pasted image 20250702215230.png",
+    "assets/Pasted image 20250702220423.png",
+    "assets/Pasted image 20250702220103.png",
+    "assets/Pasted image 20250702214719.png",
     "record/IOBuffer/IOBuffer结构.md",
     "record/IOBuffer/iobuffer--关键信息.md",
     "record/IOBuffer/20250707_iobuffer_源码分析.md",
-    "record/mem/20250702MEM_ctrl pipeline.md",
     "spec/20250702MEM_ctrl pipeline.pdf",
     "record/mem/20250702_1604_mem.md",
     "record/mem/20250702_2025_wr.md",
@@ -217,10 +283,6 @@
     "算法/20250709CAN-RGB + CANET-33K 入侵检测设计文档.md",
     "assets/Pasted image 20250713000329.png",
     "Pasted image 20251104175736.png",
-    "Pasted image 20251104175449.png",
-    "Pasted image 20251104174710.png",
-    "Pasted image 20251104174655.png",
-    "Pasted image 20251104172909.png",
     "record/inputreg/20250703input_regfile_分析思考源代码.md",
     "算法/论文修改总结及审稿意见回应 (Response to Reviewers).md",
     "record/关于pe乘加的数据溢出.md",
@@ -232,9 +294,6 @@
     "面试问题准备/1、验证项目.md",
     "面试问题准备/面试问题准备.md",
     "面试问题准备/4、FFT加速器.md",
-    "assets/Pasted image 20250702215610.png",
-    "assets/Pasted image 20250702215230.png",
-    "assets/Pasted image 20250702214719.png",
     "spec/20250704input_regfile pipeline.pdf",
     "未命名.base",
     "DMA项目",
