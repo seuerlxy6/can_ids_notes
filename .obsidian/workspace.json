@@ -184,10 +184,10 @@
   },
   "active": "5471784195c57fa6",
   "lastOpenFiles": [
-    "record/configurator/SPU仿真.md",
-    "record/configurator/顶层.md",
-    "record/IOBuffer/iobuffer--关键信息.md",
     "record/IOBuffer/memorymap1-1104.md",
+    "record/configurator/顶层.md",
+    "record/configurator/SPU仿真.md",
+    "record/IOBuffer/iobuffer--关键信息.md",
     "record/IOBuffer/map10测试初版（ram1-bank1）.md",
     "spec/20250705_coe.pdf",
     "spec/20250705_1702_coe.pdf",

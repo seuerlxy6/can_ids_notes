@@ -8,7 +8,18 @@ https://docs.amd.com/v/u/en-US/pg058-blk-mem-gen
 ![[Pasted image 20251104174710.png]]
 ![[Pasted image 20251104175449.png]]
 ![[Pasted image 20251104175736.png]]
-选择原始输出寄存器，从bram读数据延迟2拍
+**选择原始输出寄存器，从bram读数据延迟2拍**
+**关于使能延迟：**
+在 Xilinx 的 Block RAM（包括 `CAN_bank0` 这类 wrapper IP）中，  
+当你给出地址 `addr_a` 并同时拉高 `rdena` 时：
+
+|时钟边沿|动作|
+|---|---|
+|第 1 拍（rdena 上升的拍）|把 `addr_a` 寄存进 RAM 内部寄存器|
+|第 2 拍|内部查找数据并推到输出寄存器，`data_a` 才稳定有效|
+
+也就是说，**地址和使能在第 1 拍采样，数据在下一拍输出**。  
+这就是 Xilinx 所说的 **one clock latency read**。
 
 `Mem_Data_Ivld` 这个信号的作用是：**由 Memory Controller 告诉 In_Out_Buffer，“我这拍发出的读地址对应的数据在这拍有效”**。它是**读数据握手的有效标志**。
 为了补偿 `CAN_bank0` 端口 B 的两拍同步读延迟，使 `IOB_Data_O_vld` 与 `IOB_Data_Ox` 对齐。
