@@ -13,15 +13,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "record/configurator/SPU.md",
+                "file": "record/IOBuffer/IOBuffer结构.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "SPU"
+              "title": "IOBuffer结构"
+            }
+          },
+          {
+            "id": "2327d1920bab7478",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "assets/iobuffer (1).png"
+              },
+              "icon": "lucide-image",
+              "title": "iobuffer (1)"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -78,7 +91,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 311.5
+    "width": 325.5
   },
   "right": {
     "id": "59cbebedff2c23ef",
@@ -182,15 +195,19 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "5471784195c57fa6",
+  "active": "2327d1920bab7478",
   "lastOpenFiles": [
+    "record/IOBuffer/IOBuffer结构.md",
+    "record/IOBuffer/iobuffer--关键信息.md",
+    "record/IOBuffer/20250707_iobuffer_源码分析.md",
+    "record/mem/20250702MEM_ctrl pipeline.md",
+    "spec/20250702MEM_ctrl pipeline.pdf",
+    "record/mem/20250702_1604_mem.md",
+    "record/mem/20250702_2025_wr.md",
+    "record/configurator/SPU.md",
     "record/IOBuffer/memorymap1-1104.md",
     "record/IOBuffer/map10测试初版（ram1-bank1）.md",
-    "record/IOBuffer/IOBuffer结构.md",
     "record/IOBuffer/IObuffer结构——错误初版.md",
-    "record/IOBuffer/20250707_iobuffer_源码分析.md",
-    "record/IOBuffer/iobuffer--关键信息.md",
-    "record/configurator/SPU.md",
     "record/configurator/顶层.md",
     "record/configurator/SPU仿真.md",
     "spec/20250705_coe.pdf",
@@ -205,11 +222,9 @@
     "Pasted image 20251104174655.png",
     "Pasted image 20251104172909.png",
     "record/inputreg/20250703input_regfile_分析思考源代码.md",
-    "spec/20250702MEM_ctrl pipeline.pdf",
     "算法/论文修改总结及审稿意见回应 (Response to Reviewers).md",
     "record/关于pe乘加的数据溢出.md",
     "record/inputreg/20250704input_regfile pipeline.md",
-    "record/mem/20250702MEM_ctrl pipeline.md",
     "rtl/input_regfile_0704.md",
     "unable/轻量级 CAN 总线入侵检测 CNN 软件流程设计文档.md",
     "算法/数据集分析.md",
@@ -217,9 +232,6 @@
     "面试问题准备/1、验证项目.md",
     "面试问题准备/面试问题准备.md",
     "面试问题准备/4、FFT加速器.md",
-    "面试问题准备/3、掌静脉项目.md",
-    "面试问题准备/2、面向CAN总线入侵检测的CNN硬件加速器 项目总结.md",
-    "面试问题准备/DMA控制器UVM验证项目 总结.md",
     "assets/Pasted image 20250702215610.png",
     "assets/Pasted image 20250702215230.png",
     "assets/Pasted image 20250702214719.png",
