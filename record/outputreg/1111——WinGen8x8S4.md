@@ -3,4 +3,4 @@
  reg [DATAW-1:0] linebuf [0:K-1][0:IMG_W-1];
 只保存最近的8行，换行时整体下移
 在 (row,col) ∈ {(7/11/15),(7/11/15)} 时拉高 win_valid 1 拍，并在 win_bus 输出 64 个像素
-将当前输入写入 linebuf[7][col]，并在换行时整体"下移"：linebuf[r] <= linebuf[r+1]
+(row,col)=(15,15) 时给出一拍frame_done
