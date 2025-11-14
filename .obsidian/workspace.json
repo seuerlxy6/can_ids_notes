@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "1112——WinGen8x8S4"
             }
+          },
+          {
+            "id": "ad87cc63c384bda7",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.10.3"
+              },
+              "icon": "lucide-book-up",
+              "title": "版本说明 1.10.3"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -182,8 +195,9 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "2327d1920bab7478",
+  "active": "ad87cc63c384bda7",
   "lastOpenFiles": [
+    "Pasted image 20251112215117.png",
     "record/outputreg/1110-outputreg.md",
     "record/outputreg/1112——WinGen8x8S4.md",
     "record/mem/20250702MEM_ctrl pipeline.md",
@@ -224,7 +238,6 @@
     "record/关于pe乘加的数据溢出.md",
     "rtl/input_regfile_0704.md",
     "unable/轻量级 CAN 总线入侵检测 CNN 软件流程设计文档.md",
-    "算法/数据集分析.md",
     "spec/20250704input_regfile pipeline.pdf",
     "未命名.base",
     "DMA项目",
