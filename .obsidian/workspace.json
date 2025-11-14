@@ -20,21 +20,8 @@
               "icon": "lucide-file",
               "title": "1112——WinGen8x8S4"
             }
-          },
-          {
-            "id": "ad87cc63c384bda7",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.10.3"
-              },
-              "icon": "lucide-book-up",
-              "title": "版本说明 1.10.3"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -195,11 +182,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "ad87cc63c384bda7",
+  "active": "2327d1920bab7478",
   "lastOpenFiles": [
-    "Pasted image 20251112215117.png",
     "record/outputreg/1110-outputreg.md",
     "record/outputreg/1112——WinGen8x8S4.md",
+    "Pasted image 20251112215117.png",
     "record/mem/20250702MEM_ctrl pipeline.md",
     "record/outputreg/未命名",
     "record/outputreg",
@@ -233,7 +220,6 @@
     "spec/20250705_coe.pdf",
     "spec/20250705_1702_coe.pdf",
     "record/weightbuffer/20250705_coe.md",
-    "assets/Pasted image 20250710213618.png",
     "算法/论文修改总结及审稿意见回应 (Response to Reviewers).md",
     "record/关于pe乘加的数据溢出.md",
     "rtl/input_regfile_0704.md",
