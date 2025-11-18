@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "record/back_buffer.md",
+                "file": "record/weightbuffer/20250705weightbuffer_分析思考源代码.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "back_buffer"
+              "title": "20250705weightbuffer_分析思考源代码"
             }
           },
           {
@@ -210,8 +210,8 @@
   },
   "active": "2327d1920bab7478",
   "lastOpenFiles": [
-    "record/outputreg/1114-reg32.md",
     "record/back_buffer.md",
+    "record/outputreg/1114-reg32.md",
     "assets/Pasted image 20250702220648.png",
     "record/IOBuffer/1105-iobuffer--关键信息.md",
     "record/IOBuffer/1104-memorymap1.md",
