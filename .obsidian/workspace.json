@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "record/outputreg/1114-reg32.md",
+                "file": "record/back_buffer.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1114-reg32"
+              "title": "back_buffer"
             }
           },
           {
@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "record/pool.md",
+                "file": "record/IOBuffer/1105-iobuffer--关键信息.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "pool"
+              "title": "1105-iobuffer--关键信息"
             }
           },
           {
@@ -47,8 +47,7 @@
               "title": "Pasted image 20250702220648"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -105,7 +104,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 336.5
   },
   "right": {
     "id": "59cbebedff2c23ef",
@@ -209,13 +208,16 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "92aa1a0f8debdf09",
+  "active": "2327d1920bab7478",
   "lastOpenFiles": [
-    "Pasted image 20251118180326.png",
     "record/outputreg/1114-reg32.md",
-    "record/pool.md",
-    "record/mem/20250702MEM_ctrl pipeline.md",
+    "record/back_buffer.md",
     "assets/Pasted image 20250702220648.png",
+    "record/IOBuffer/1105-iobuffer--关键信息.md",
+    "record/IOBuffer/1104-memorymap1.md",
+    "record/pool.md",
+    "Pasted image 20251118180326.png",
+    "record/mem/20250702MEM_ctrl pipeline.md",
     "Pasted image 20251118204806.png",
     "Pasted image 20251118173656.png",
     "record/outputreg/1112——WinGen8x8S4.md",
@@ -231,8 +233,6 @@
     "assets/Pasted image 20250702220423.png",
     "算法/20250709CAN-RGB + CANET-33K 入侵检测设计文档.md",
     "record/configurator/1108-顶层config.md",
-    "record/IOBuffer/1105-iobuffer--关键信息.md",
-    "record/IOBuffer/1104-memorymap1.md",
     "record/inputreg/20250703input_regfile_分析思考源代码.md",
     "record/configurator/SPU.md",
     "record/configurator/SPU仿真.md",
