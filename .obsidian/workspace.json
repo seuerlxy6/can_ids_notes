@@ -13,15 +13,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "record/outputreg/1114-reg32.md",
+                "file": "record/outputreg/1112——WinGen8x8S4.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1114-reg32"
+              "title": "1112——WinGen8x8S4"
+            }
+          },
+          {
+            "id": "552d254d7446a6f1",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Pasted image 20251112215117.png"
+              },
+              "icon": "lucide-image",
+              "title": "Pasted image 20251112215117"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -78,7 +91,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 325.5
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "59cbebedff2c23ef",
@@ -182,7 +196,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "2327d1920bab7478",
+  "active": "552d254d7446a6f1",
   "lastOpenFiles": [
     "record/outputreg/1112——WinGen8x8S4.md",
     "record/outputreg/1114-reg32.md",
