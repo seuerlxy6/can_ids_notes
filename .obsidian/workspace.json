@@ -13,12 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "record/pool/pool基础.md",
+                "file": "record/pool/pool展平代码.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "pool基础"
+              "title": "pool展平代码"
+            }
+          },
+          {
+            "id": "5d46665838c96f56",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "record/pool/pool展平代码.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "pool展平代码"
             }
           }
         ]
@@ -184,23 +198,23 @@
   },
   "active": "6a4f5bc612d46bac",
   "lastOpenFiles": [
+    "record/outputreg/1114-reg32.md",
     "record/pool/pool展平代码.md",
+    "record/pool/pool基础.md",
+    "Pasted image 20251118173656.png",
     "record/back_buffer/back_buffer.md",
     "算法/20250709CAN-RGB + CANET-33K 入侵检测设计文档.md",
     "record/pe/关于pe乘加的数据溢出.md",
     "record/IOBuffer/1105-iobuffer--关键信息.md",
     "assets/Pasted image 20250702220648.png",
-    "record/pool/pool基础.md",
     "record/pe",
     "record/pool",
     "record/back_buffer",
-    "record/outputreg/1114-reg32.md",
     "record/weightbuffer/20250705weightbuffer_分析思考源代码.md",
     "record/IOBuffer/1104-memorymap1.md",
     "Pasted image 20251118180326.png",
     "record/mem/20250702MEM_ctrl pipeline.md",
     "Pasted image 20251118204806.png",
-    "Pasted image 20251118173656.png",
     "record/outputreg/1112——WinGen8x8S4.md",
     "Pasted image 20251112215117.png",
     "record/outputreg/1110-outputreg.md",
@@ -227,7 +241,6 @@
     "record/IOBuffer/IObuffer结构——错误初版.md",
     "spec/20250705_coe.pdf",
     "spec/20250705_1702_coe.pdf",
-    "record/weightbuffer/20250705_coe.md",
     "spec/20250704input_regfile pipeline.pdf",
     "未命名.base",
     "未命名.canvas",
