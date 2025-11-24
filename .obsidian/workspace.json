@@ -13,12 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "record/pool/pool展平代码.md",
+                "file": "record/outputreg/1114-reg32.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "pool展平代码"
+              "title": "1114-reg32"
+            }
+          },
+          {
+            "id": "a7bbc0fc72217357",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "record/整体仿真/1124.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "1124"
             }
           },
           {
@@ -35,7 +49,8 @@
               "title": "pool展平代码"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -92,7 +107,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 336.5
+    "width": 200
   },
   "right": {
     "id": "59cbebedff2c23ef",
@@ -196,23 +211,28 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "6a4f5bc612d46bac",
+  "active": "a7bbc0fc72217357",
   "lastOpenFiles": [
-    "record/outputreg/1114-reg32.md",
-    "record/pool/pool展平代码.md",
-    "record/pool/pool基础.md",
-    "Pasted image 20251118173656.png",
+    "record/configurator/SPU.md",
+    "record/整体仿真/1124.md",
+    "record/整体仿真",
+    "record/configurator/SPU仿真.md",
+    "record/configurator/1108-顶层config.md",
+    "record/IOBuffer/1105-iobuffer--关键信息.md",
+    "record/IOBuffer/1104-memorymap1.md",
     "record/back_buffer/back_buffer.md",
     "算法/20250709CAN-RGB + CANET-33K 入侵检测设计文档.md",
+    "Pasted image 20251118180326.png",
+    "record/outputreg/1114-reg32.md",
+    "record/pool/pool基础.md",
+    "record/pool/pool展平代码.md",
+    "Pasted image 20251118173656.png",
     "record/pe/关于pe乘加的数据溢出.md",
-    "record/IOBuffer/1105-iobuffer--关键信息.md",
     "assets/Pasted image 20250702220648.png",
     "record/pe",
     "record/pool",
     "record/back_buffer",
     "record/weightbuffer/20250705weightbuffer_分析思考源代码.md",
-    "record/IOBuffer/1104-memorymap1.md",
-    "Pasted image 20251118180326.png",
     "record/mem/20250702MEM_ctrl pipeline.md",
     "Pasted image 20251118204806.png",
     "record/outputreg/1112——WinGen8x8S4.md",
@@ -225,10 +245,7 @@
     "record/inputreg/20250704input_regfile pipeline.md",
     "assets/Pasted image 20250702220103.png",
     "assets/Pasted image 20250702220423.png",
-    "record/configurator/1108-顶层config.md",
     "record/inputreg/20250703input_regfile_分析思考源代码.md",
-    "record/configurator/SPU.md",
-    "record/configurator/SPU仿真.md",
     "record/weightbuffer/wb.md",
     "assets/Pasted image 20250706182532.png",
     "assets/Pasted image 20250704173358.png",
@@ -242,7 +259,6 @@
     "spec/20250705_coe.pdf",
     "spec/20250705_1702_coe.pdf",
     "spec/20250704input_regfile pipeline.pdf",
-    "未命名.base",
     "未命名.canvas",
     "从波形能看出 3 个循环的嵌套层次：计数器 变化速度 作用N_cnt 最快 当前写的输出通道 index（1‥N）ox_cnt 中等 当前行里第几个 8-byte 列块（0‥OUT_w-1）oy_cnt 最慢 当前输出行 index（0‥OUT_h-1）未命名.canvas",
     "未命名 1.canvas"
