@@ -27,12 +27,38 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "record/weightbuffer/20250705weightbuffer_分析思考源代码.md",
+                "file": "record/inputreg/20250704input_regfile pipeline.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "20250705weightbuffer_分析思考源代码"
+              "title": "20250704input_regfile pipeline"
+            }
+          },
+          {
+            "id": "9dce71ebec85bca0",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "assets/Pasted image 20250704173358.png"
+              },
+              "icon": "lucide-image",
+              "title": "Pasted image 20250704173358"
+            }
+          },
+          {
+            "id": "0da74fb561ef5ec5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "record/pe/模型权重情况.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "模型权重情况"
             }
           },
           {
@@ -50,7 +76,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -211,13 +237,20 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "a7bbc0fc72217357",
+  "active": "0da74fb561ef5ec5",
   "lastOpenFiles": [
+    "record/pe/关于pe乘加的数据溢出.md",
+    "record/pe/模型权重情况.md",
+    "算法/20250709CAN-RGB + CANET-33K 入侵检测设计文档.md",
+    "rtl/input_regfile_0704.md",
+    "assets/Pasted image 20250704162119.png",
+    "assets/Pasted image 20250704173358.png",
+    "record/inputreg/20250704input_regfile pipeline.md",
+    "record/weightbuffer/20250705weightbuffer_分析思考源代码.md",
     "record/weightbuffer/20250705_coe.md",
     "record/IOBuffer/20250707_iobuffer_源码分析.md",
     "record/IOBuffer/1105-iobuffer--关键信息.md",
     "record/IOBuffer/1104-memorymap1.md",
-    "record/inputreg/20250704input_regfile pipeline.md",
     "record/inputreg/20250703input_regfile_分析思考源代码.md",
     "record/整体仿真/1124.md",
     "record/configurator/SPU.md",
@@ -225,18 +258,15 @@
     "record/configurator/SPU仿真.md",
     "record/configurator/1108-顶层config.md",
     "record/back_buffer/back_buffer.md",
-    "算法/20250709CAN-RGB + CANET-33K 入侵检测设计文档.md",
     "Pasted image 20251118180326.png",
     "record/outputreg/1114-reg32.md",
     "record/pool/pool基础.md",
     "record/pool/pool展平代码.md",
     "Pasted image 20251118173656.png",
-    "record/pe/关于pe乘加的数据溢出.md",
     "assets/Pasted image 20250702220648.png",
     "record/pe",
     "record/pool",
     "record/back_buffer",
-    "record/weightbuffer/20250705weightbuffer_分析思考源代码.md",
     "record/mem/20250702MEM_ctrl pipeline.md",
     "Pasted image 20251118204806.png",
     "record/outputreg/1112——WinGen8x8S4.md",
@@ -249,13 +279,9 @@
     "assets/Pasted image 20250702220103.png",
     "assets/Pasted image 20250702220423.png",
     "record/weightbuffer/wb.md",
-    "assets/Pasted image 20250706182532.png",
-    "assets/Pasted image 20250704173358.png",
     "record/IOBuffer/IOBuffer结构.md",
     "spec/20250702MEM_ctrl pipeline.pdf",
     "record/mem/20250702_1604_mem.md",
-    "record/mem/20250702_2025_wr.md",
-    "record/IOBuffer/map10测试初版（ram1-bank1）.md",
     "spec/20250705_coe.pdf",
     "spec/20250705_1702_coe.pdf",
     "spec/20250704input_regfile pipeline.pdf",
