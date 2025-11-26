@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "record/论文/relu截断论文.md",
+                "file": "record/pe/pe单元仿真.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "relu截断论文"
+              "title": "pe单元仿真"
             }
           },
           {
@@ -239,8 +239,10 @@
   },
   "active": "a7bbc0fc72217357",
   "lastOpenFiles": [
-    "record/论文/pe位宽优化论文.md",
+    "Pasted image 20251126214601.png",
     "record/论文/relu截断论文.md",
+    "record/pe/pe单元仿真.md",
+    "record/论文/pe位宽优化论文.md",
     "record/论文",
     "算法/20250709CAN-RGB + CANET-33K 入侵检测设计文档.md",
     "record/inputreg/20250704input_regfile pipeline.md",
@@ -278,7 +280,6 @@
     "record/outputreg/未命名",
     "record/outputreg",
     "assets/iobuffer (1).png",
-    "record/weightbuffer/20250707_weight buffer.md",
     "assets/Pasted image 20250702220103.png",
     "assets/Pasted image 20250702220423.png",
     "spec/20250702MEM_ctrl pipeline.pdf",
