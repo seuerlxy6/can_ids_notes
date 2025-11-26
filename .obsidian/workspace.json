@@ -76,7 +76,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -237,11 +237,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "0da74fb561ef5ec5",
+  "active": "a7bbc0fc72217357",
   "lastOpenFiles": [
+    "record/论文/pe位宽优化论文.md",
     "record/论文/relu截断论文.md",
     "record/论文",
-    "record/论文/pe位宽优化论文.md",
     "算法/20250709CAN-RGB + CANET-33K 入侵检测设计文档.md",
     "record/inputreg/20250704input_regfile pipeline.md",
     "assets/Pasted image 20250704173358.png",
