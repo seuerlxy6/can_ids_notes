@@ -53,12 +53,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "record/pe/关于pe乘加的数据溢出.md",
+                "file": "record/pe/论文.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "关于pe乘加的数据溢出"
+              "title": "论文"
             }
           },
           {
@@ -239,8 +239,9 @@
   },
   "active": "0da74fb561ef5ec5",
   "lastOpenFiles": [
-    "record/pe/模型权重情况.md",
     "record/pe/关于pe乘加的数据溢出.md",
+    "record/pe/论文.md",
+    "record/pe/模型权重情况.md",
     "算法/20250709CAN-RGB + CANET-33K 入侵检测设计文档.md",
     "rtl/input_regfile_0704.md",
     "assets/Pasted image 20250704162119.png",
@@ -281,7 +282,6 @@
     "record/weightbuffer/wb.md",
     "record/IOBuffer/IOBuffer结构.md",
     "spec/20250702MEM_ctrl pipeline.pdf",
-    "record/mem/20250702_1604_mem.md",
     "spec/20250705_coe.pdf",
     "spec/20250705_1702_coe.pdf",
     "spec/20250704input_regfile pipeline.pdf",
