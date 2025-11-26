@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "record/relu截断.md",
+                "file": "record/论文/relu截断论文.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "relu截断"
+              "title": "relu截断论文"
             }
           },
           {
@@ -53,12 +53,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "record/pe/论文.md",
+                "file": "record/论文/pe位宽优化论文.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "论文"
+              "title": "pe位宽优化论文"
             }
           },
           {
@@ -239,11 +239,12 @@
   },
   "active": "0da74fb561ef5ec5",
   "lastOpenFiles": [
-    "record/relu截断.md",
+    "record/论文/relu截断论文.md",
+    "record/论文",
+    "record/论文/pe位宽优化论文.md",
     "算法/20250709CAN-RGB + CANET-33K 入侵检测设计文档.md",
     "record/inputreg/20250704input_regfile pipeline.md",
     "assets/Pasted image 20250704173358.png",
-    "record/pe/论文.md",
     "record/pe/关于pe乘加的数据溢出.md",
     "record/pe/模型权重情况.md",
     "rtl/input_regfile_0704.md",
@@ -280,11 +281,9 @@
     "record/weightbuffer/20250707_weight buffer.md",
     "assets/Pasted image 20250702220103.png",
     "assets/Pasted image 20250702220423.png",
-    "record/weightbuffer/wb.md",
     "spec/20250702MEM_ctrl pipeline.pdf",
     "spec/20250705_coe.pdf",
     "spec/20250705_1702_coe.pdf",
-    "spec/20250704input_regfile pipeline.pdf",
     "未命名.canvas",
     "从波形能看出 3 个循环的嵌套层次：计数器 变化速度 作用N_cnt 最快 当前写的输出通道 index（1‥N）ox_cnt 中等 当前行里第几个 8-byte 列块（0‥OUT_w-1）oy_cnt 最慢 当前输出行 index（0‥OUT_h-1）未命名.canvas",
     "未命名 1.canvas"
