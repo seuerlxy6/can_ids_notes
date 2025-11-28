@@ -36,6 +36,18 @@
             }
           },
           {
+            "id": "95b804bb0e2dafd5",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.10.6"
+              },
+              "icon": "lucide-book-up",
+              "title": "版本说明 1.10.6"
+            }
+          },
+          {
             "id": "9dce71ebec85bca0",
             "type": "leaf",
             "state": {
@@ -76,7 +88,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -237,7 +249,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "a7bbc0fc72217357",
+  "active": "95b804bb0e2dafd5",
   "lastOpenFiles": [
     "Pasted image 20251126214601.png",
     "record/论文/relu截断论文.md",
