@@ -53,12 +53,14 @@
             "id": "695ade0372474069",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "assets/Pasted image 20250702215610.png"
+                "file": "unable/握手信号.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "Pasted image 20250702215610"
+              "icon": "lucide-file",
+              "title": "握手信号"
             }
           },
           {
@@ -265,10 +267,11 @@
   },
   "active": "695ade0372474069",
   "lastOpenFiles": [
+    "assets/Pasted image 20250702215610.png",
+    "unable/握手信号.md",
     "assets/Pasted image 20250704173358.png",
     "tb/tb_mem_ctrl_0702.md",
     "record/outputreg/1114-reg32.md",
-    "assets/Pasted image 20250702215610.png",
     "record/mem/20250702MEM_ctrl pipeline.md",
     "Pasted image 20251126214601.png",
     "record/论文/relu截断论文.md",
@@ -302,7 +305,6 @@
     "record/pool",
     "record/back_buffer",
     "Pasted image 20251118204806.png",
-    "record/outputreg/1112——WinGen8x8S4.md",
     "Pasted image 20251112215117.png",
     "record/outputreg/未命名",
     "record/outputreg",
