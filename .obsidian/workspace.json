@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "unable/握手信号.md",
+                "file": "算法/20250709CAN-RGB + CANET-33K 入侵检测设计文档.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "握手信号"
+              "title": "20250709CAN-RGB + CANET-33K 入侵检测设计文档"
             }
           },
           {
@@ -74,37 +74,9 @@
               "icon": "lucide-image",
               "title": "Pasted image 20250704173358"
             }
-          },
-          {
-            "id": "0da74fb561ef5ec5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "record/论文/pe位宽优化论文.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "pe位宽优化论文"
-            }
-          },
-          {
-            "id": "5d46665838c96f56",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "record/pool/pool展平代码.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "pool展平代码"
-            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -267,16 +239,16 @@
   },
   "active": "695ade0372474069",
   "lastOpenFiles": [
-    "assets/Pasted image 20250702215610.png",
+    "record/论文/pe位宽优化论文.md",
+    "record/论文/relu截断论文.md",
     "unable/握手信号.md",
+    "assets/Pasted image 20250702215610.png",
     "assets/Pasted image 20250704173358.png",
     "tb/tb_mem_ctrl_0702.md",
     "record/outputreg/1114-reg32.md",
     "record/mem/20250702MEM_ctrl pipeline.md",
     "Pasted image 20251126214601.png",
-    "record/论文/relu截断论文.md",
     "record/pe/pe单元仿真32bit累加器.md",
-    "record/论文/pe位宽优化论文.md",
     "record/论文",
     "算法/20250709CAN-RGB + CANET-33K 入侵检测设计文档.md",
     "record/inputreg/20250704input_regfile pipeline.md",
