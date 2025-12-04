@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "算法/遗传算法-NAS.md",
+                "file": "算法/20250709CAN-RGB + CANET-33K 入侵检测设计文档.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "遗传算法-NAS"
+              "title": "20250709CAN-RGB + CANET-33K 入侵检测设计文档"
             }
           }
         ]
@@ -184,6 +184,7 @@
   },
   "active": "117b882cc4883629",
   "lastOpenFiles": [
+    "算法/数据集分析.md",
     "算法/遗传算法-NAS.md",
     "tb/tb_mem_ctrl_0702.md",
     "record/pe/pe单元仿真32bit累加器.md",
@@ -216,7 +217,6 @@
     "record/back_buffer/back_buffer.md",
     "Pasted image 20251118180326.png",
     "record/pool/pool基础.md",
-    "record/pool/pool展平代码.md",
     "Pasted image 20251118173656.png",
     "assets/Pasted image 20250702220648.png",
     "record/pe",
