@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "record/论文/relu截断论文.md",
+                "file": "record/back_buffer/back_buffer.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "relu截断论文"
+              "title": "back_buffer"
             }
           }
         ]
@@ -184,8 +184,8 @@
   },
   "active": "117b882cc4883629",
   "lastOpenFiles": [
-    "record/论文/pe位宽优化论文.md",
     "record/论文/relu截断论文.md",
+    "record/论文/pe位宽优化论文.md",
     "算法/20250709CAN-RGB + CANET-33K 入侵检测设计文档.md",
     "算法/数据集分析.md",
     "算法/遗传算法-NAS.md",
