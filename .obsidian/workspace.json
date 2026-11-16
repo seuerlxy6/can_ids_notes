@@ -87,12 +87,16 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {},
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
               "icon": "lucide-bookmark",
               "title": "书签"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -198,7 +202,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "1dc7266a7d32604b",
+  "active": "4744c2d90ea1ef10",
   "lastOpenFiles": [
     "未命名.canvas",
     "Pasted image 20250727000855.png",
