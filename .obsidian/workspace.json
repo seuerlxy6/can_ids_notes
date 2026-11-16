@@ -60,9 +60,21 @@
               "icon": "lucide-file",
               "title": "20250702MEM_ctrl pipeline"
             }
+          },
+          {
+            "id": "68edc8ed937f1b25",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "assets/Pasted image 20250702214719.png"
+              },
+              "icon": "lucide-image",
+              "title": "Pasted image 20250702214719"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -119,7 +131,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 520.5
+    "width": 520.5,
+    "collapsed": true
   },
   "right": {
     "id": "59cbebedff2c23ef",
@@ -223,11 +236,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "e722ec9f0c2d7cbb",
+  "active": "68edc8ed937f1b25",
   "lastOpenFiles": [
+    "record/mem/20250702MEM_ctrl pipeline.md",
     "record/mem/20250702_1635_mem.md",
     "record/mem/20250702_1604_mem.md",
-    "record/mem/20250702MEM_ctrl pipeline.md",
     "assets/Pasted image 20250702214719.png",
     "record/inputreg/20250704input_regfile pipeline.md",
     "record/weightbuffer/20250707_weight buffer.md",
