@@ -100,7 +100,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 520.5
+    "width": 333.5
   },
   "right": {
     "id": "59cbebedff2c23ef",
@@ -181,9 +181,33 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
+          },
+          {
+            "id": "770a6b30d73bceca",
+            "type": "leaf",
+            "state": {
+              "type": "claudian-view",
+              "state": {
+                "tabWorkspace": {
+                  "version": 1,
+                  "openTabs": [
+                    {
+                      "tabId": "tab-1794810810145-qx6gn5z",
+                      "conversationId": null
+                    }
+                  ],
+                  "activeTabId": "tab-1794810810145-qx6gn5z",
+                  "expandedTitleTabIds": [
+                    "tab-1794810810145-qx6gn5z"
+                  ]
+                }
+              },
+              "icon": "bot",
+              "title": "Claudian"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -199,10 +223,11 @@
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
       "obsidian-git:Open Git source control": false,
-      "templater-obsidian:Templater": false
+      "templater-obsidian:Templater": false,
+      "realclaudian:Open Claudian": false
     }
   },
-  "active": "4744c2d90ea1ef10",
+  "active": "770a6b30d73bceca",
   "lastOpenFiles": [
     "未命名.canvas",
     "Pasted image 20250727000855.png",
