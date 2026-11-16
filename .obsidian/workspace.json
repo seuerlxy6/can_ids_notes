@@ -11,16 +11,52 @@
             "id": "2f3485371808cc3c",
             "type": "leaf",
             "state": {
-              "type": "bases",
+              "type": "image",
               "state": {
-                "file": "未命名 1.base",
-                "viewName": "表格"
+                "file": "Pasted image 20250727000855.png"
               },
-              "icon": "lucide-table",
-              "title": "未命名 1"
+              "icon": "lucide-image",
+              "title": "Pasted image 20250727000855"
+            }
+          },
+          {
+            "id": "7628bc7c7247b50b",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Pasted image 20250727000905.png"
+              },
+              "icon": "lucide-image",
+              "title": "Pasted image 20250727000905"
+            }
+          },
+          {
+            "id": "0f92ccaa29b6edef",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Pasted image 20250727000855.png"
+              },
+              "icon": "lucide-image",
+              "title": "Pasted image 20250727000855"
+            }
+          },
+          {
+            "id": "cde7c698f658f917",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Pasted image 20250727000905.png"
+              },
+              "icon": "lucide-image",
+              "title": "Pasted image 20250727000905"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -181,11 +217,15 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "2f3485371808cc3c",
+  "active": "cde7c698f658f917",
   "lastOpenFiles": [
+    "Pasted image 20250727000855.png",
+    "Pasted image 20250730173810.png",
+    "Pasted image 20250727000905.png",
+    "未命名.base",
     "日记/2025-07-01.md",
     "未命名 1.base",
-    "未命名.base",
+    "未命名 2.base",
     "record/outputreg/1110-outputreg.md",
     "unable/轻量级 CAN 总线入侵检测 CNN 软件流程设计文档.md",
     "others",
@@ -222,12 +262,9 @@
     "record/整体仿真",
     "Pasted image 20251118180326.png",
     "Pasted image 20251118173656.png",
-    "assets/Pasted image 20250702220648.png",
     "record/pe",
     "record/pool",
     "record/back_buffer",
-    "Pasted image 20251118204806.png",
-    "record/outputreg/未命名",
     "未命名.canvas",
     "从波形能看出 3 个循环的嵌套层次：计数器 变化速度 作用N_cnt 最快 当前写的输出通道 index（1‥N）ox_cnt 中等 当前行里第几个 8-byte 列块（0‥OUT_w-1）oy_cnt 最慢 当前输出行 index（0‥OUT_h-1）未命名.canvas",
     "未命名 1.canvas"
