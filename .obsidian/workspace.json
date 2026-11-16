@@ -4,59 +4,40 @@
     "type": "split",
     "children": [
       {
-        "id": "b110e377c18b8de5",
+        "id": "9005ce1efdb8a95e",
         "type": "tabs",
         "children": [
           {
-            "id": "2f3485371808cc3c",
+            "id": "b29bafc18fa9a69c",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "canvas",
               "state": {
-                "file": "Pasted image 20250727000855.png"
+                "file": "未命名.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": -372,
+                  "zoom": 0
+                }
               },
-              "icon": "lucide-image",
-              "title": "Pasted image 20250727000855"
+              "icon": "lucide-layout-dashboard",
+              "title": "未命名"
             }
           },
           {
-            "id": "7628bc7c7247b50b",
+            "id": "1dc7266a7d32604b",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "release-notes",
               "state": {
-                "file": "Pasted image 20250727000905.png"
+                "currentVersion": "1.15.1"
               },
-              "icon": "lucide-image",
-              "title": "Pasted image 20250727000905"
-            }
-          },
-          {
-            "id": "0f92ccaa29b6edef",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Pasted image 20250727000855.png"
-              },
-              "icon": "lucide-image",
-              "title": "Pasted image 20250727000855"
-            }
-          },
-          {
-            "id": "cde7c698f658f917",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Pasted image 20250727000905.png"
-              },
-              "icon": "lucide-image",
-              "title": "Pasted image 20250727000905"
+              "icon": "lucide-book-up",
+              "title": "版本说明 1.15.1"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -76,7 +57,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
               "title": "文件列表"
@@ -148,12 +131,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "record/20250701_1845_fifo_underflow.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "20250701_1845_fifo_underflow 的出链列表"
+              "title": "出链"
             }
           },
           {
@@ -177,13 +159,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "record/configurator/SPU仿真.md",
+                "file": "未命名.canvas",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "SPU仿真 的大纲"
+              "title": "未命名 的大纲"
             }
           },
           {
@@ -197,12 +179,11 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 280.5,
-    "collapsed": true
+    "width": 280.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -217,11 +198,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "cde7c698f658f917",
+  "active": "1dc7266a7d32604b",
   "lastOpenFiles": [
+    "未命名.canvas",
     "Pasted image 20250727000855.png",
-    "Pasted image 20250730173810.png",
     "Pasted image 20250727000905.png",
+    "Pasted image 20250730173810.png",
     "未命名.base",
     "日记/2025-07-01.md",
     "未命名 1.base",
@@ -261,11 +243,9 @@
     "assets/Pasted image 20250704162119.png",
     "record/整体仿真",
     "Pasted image 20251118180326.png",
-    "Pasted image 20251118173656.png",
     "record/pe",
     "record/pool",
     "record/back_buffer",
-    "未命名.canvas",
     "从波形能看出 3 个循环的嵌套层次：计数器 变化速度 作用N_cnt 最快 当前写的输出通道 index（1‥N）ox_cnt 中等 当前行里第几个 8-byte 列块（0‥OUT_w-1）oy_cnt 最慢 当前输出行 index（0‥OUT_h-1）未命名.canvas",
     "未命名 1.canvas"
   ]
